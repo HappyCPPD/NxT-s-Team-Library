@@ -1,0 +1,12 @@
+Name: Overgrowth
+Category: web
+Points/Solves: 500 / 0
+Author: Oxnoobsec
+Tags: (none)
+Files: (none)
+Connection: Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.
+
+Description:
+**Overgrowth** is a gardening-supply API. The team swears it's
+locked down for production. The flag is just a field - one that only the head
+gardener is allowed to pick.

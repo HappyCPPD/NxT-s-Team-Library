@@ -1,0 +1,13 @@
+Card Counting
+
+Category: blockchain   Difficulty: 2
+
+Description
+# Card Counting
+
+Card counting is banned in every casino, but at PlatyJack you are welcome to try. Our dealers just love their tips.
+
+
+Task
+blockchain.cardcounting.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

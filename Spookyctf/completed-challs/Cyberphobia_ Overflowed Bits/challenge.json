@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "name": "Cyberphobia: Overflowed Bits",
+  "category": "binrev",
+  "value": 500,
+  "solves": 0,
+  "description": "I can’t trust computers anymore. I trusted the input, it overflowed.\r\n\r\n*flag format is spooky{response_from_server}*\r\n\r\n*Note this challenge was made from students as part of a class project, please be kind and provide feedback here: https://docs.google.com/forms/d/e/1FAIpQLSdJHmfIxsN-tXX82pWJq2To2WxUcZpiU29l-UMlFZct0eFu-Q/viewform*",
+  "connection_info": "nc 18.226.103.146 1337",
+  "tags": [
+    "easy"
+  ]
+}

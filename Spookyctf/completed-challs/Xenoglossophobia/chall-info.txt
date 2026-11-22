@@ -1,0 +1,15 @@
+Xenoglossophobia
+
+Points: 663   Solves: 73
+
+Description
+so many languages ... so many ways to interpret data ... please help me! looking at this challenge makes me feel like I am cutting onions right now 🤮
+
+Task
+serial-capture.log
+
+Tags
+Scripting, Log Analysis, medium
+
+Category
+misc

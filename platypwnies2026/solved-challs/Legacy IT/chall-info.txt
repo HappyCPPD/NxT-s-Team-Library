@@ -1,0 +1,15 @@
+Legacy IT
+
+Category: ad   Difficulty: 1
+
+Description
+# Legacy IT
+
+AD is considered legacy, even by Microsoft. Yet even in a legacy environment, you can always have *more* legacy.
+
+Note: The flag can be found on the Administrator's Desktop
+Also note that the challenge may need up to 10min to spawn because AD is slow, sorry :(
+
+
+Task
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

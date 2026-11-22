@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "Read the Rules",
+  "category": "General",
+  "value": 50,
+  "solves": 485,
+  "description": "Did you read the rules?\r\n\r\nWhat's the flag format?",
+  "connection_info": null,
+  "tags": []
+}

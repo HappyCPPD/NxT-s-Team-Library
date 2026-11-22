@@ -1,0 +1,10 @@
+{
+  "id": 33,
+  "name": "Klediophobia",
+  "category": "crypto",
+  "value": 741,
+  "solves": 25,
+  "description": "Some keys are better left buried...\r\n\r\nAfter a mysterious midnight key-generation ceremony, SpookyTrust proudly announced the creation of four new intermediate CA certificates. Each passed verification with flying colors.\r\n\r\nWhispers of an unusual event buried deep within the HSM logs have raised suspicions about the ceremony. The engineers insist everything went according to plan, but can their certificates really be trusted?\r\n\r\nYou've been given access to the certificates, signing requests, and audit records. Can you uncover SpookyTrust's darkest secret?\r\n\r\nSpookyTrust's audit server is waiting for proof. Recover the compromised signing key and use it to sign a fresh audit message. The server expects an ECDSA-SHA384 signature over the exact UTF-8 message, encoded as Base64 (DER). If you can convince the server that you possess the key, it will surrender the flag.",
+  "connection_info": "http://3.149.129.229:8000/",
+  "tags": []
+}

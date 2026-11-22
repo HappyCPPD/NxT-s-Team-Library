@@ -1,0 +1,10 @@
+{
+  "id": 12,
+  "name": "Trust Issues",
+  "category": "OSINT",
+  "value": 100,
+  "solves": 53,
+  "description": "Dont we all love OSINT, \r\nThis guy did too\r\n",
+  "connection_info": "https://github.com/codrrr-max",
+  "tags": []
+}

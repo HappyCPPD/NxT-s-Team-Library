@@ -1,0 +1,10 @@
+{
+  "id": 43,
+  "name": "hilly billy",
+  "category": "Misc",
+  "value": 300,
+  "solves": 2,
+  "description": "I am lost, please locate me on the map so I can request help\r\n\r\nflag format: d4rk{letter_number} \r\n![hilly_billy.webp](/files/cb38f6d9dd558bb7f27edc2da80b0c23/hilly_billy.webp)",
+  "connection_info": null,
+  "tags": []
+}

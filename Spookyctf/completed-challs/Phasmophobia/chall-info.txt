@@ -1,0 +1,18 @@
+Phasmophobia
+
+Points: 500   Solves: 0
+
+Description
+Whenever I see Eberhardt Hall...I get quite the heebie jeebies. 
+
+Especially as Halloween draws near. That place just...feels like a haunted mansion. Matter of fact; I'm pretty sure it is! I went in recently, and some eerie, haunted house like music started playing. That caught me off guard; especially as I was pretty sure I heard someone...or something whispering. To make matters even worse...at the same time I think I even saw a portrait shift. It was pretty strange. Maybe. I wasn't sure. I was losing it; especially when I was certain I saw a ghost wearing a laurel from the corner of my eye." "BUT I did not think about it for even a moment. I scram skedaddled out of there. NOPE!" "Although...now that I think about it...I wonder what those whispers I heard were...
+
+Task
+PhasmophobiaChallenge.wav
+ebersecret.png
+
+Tags
+steganography, easy
+
+Category
+forensics

@@ -1,0 +1,8 @@
+- Challenge Name: read the flag 3
+- Challenge Category: OSINT
+- Challenge Difficulty: Easy
+- Challenge Flag: `d4rk{grandsurjeet}c0de`
+- Challenge Description: What cinema are they talking about? Flag format: `d4rk{Name Of The Cinema Hall}c0de` (no spaces all lowercase)
+- Challenge Files: -
+- Challenge Author: [d4r5h](https://github.com/DarshBhilwara)
+- Challenge Solution: Search for the cinemas closed in Aligarh and find the place. Alternate solution - find some old list of cinema halls in Aligarh and brute force it [like this](https://davp.nic.in/ufo.pdf). 

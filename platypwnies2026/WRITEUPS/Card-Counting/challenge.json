@@ -1,0 +1,10 @@
+{
+  "slug": "cardcounting",
+  "categorySlug": "blockchain",
+  "name": "Card Counting",
+  "difficulty": 2,
+  "order": 5,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/08978bf2-2ebd-41f1-ad8c-1ecbf953321e?expiry=1794593396&token=5w1nRP6jqt4qAToDIzukXmlEO_p9Br6etHJQVEkjINe-aSNxdTPNSqIxtPbq4M3UE_LM6VivyiHCo9LK5CAWAw%3D%3D",
+  "canBeStarted": true,
+  "description": "# Card Counting\n\nCard counting is banned in every casino, but at PlatyJack you are welcome to try. Our dealers just love their tips.\n"
+}

@@ -1,0 +1,11 @@
+Saad lowered his voice and glanced over his shoulder.
+
+> Saad: You got the note? > > Harun: The one with the strange code? I almost burned it. > > Saad: Don't. Someone has been watching the building since noon.
+
+Files: chall.zip
+
+Harun: What does it say?
+
+SHA-256: 47250d4a65be0eb4ff5e8b4c31ae2120f95bb086f301ebb2467f7640614952c0
+
+Flag Format: hiCTF{}

@@ -1,0 +1,4 @@
+One of our YARA rules flagged a suspicious file uploaded to VirusTotal. Upon further analysis, the file appears to be a draft version of a diplomatic engagement statement. Embedded within this seemingly benign document is a malicious macro that prompts users to enable execution. Once activated, the macro initiates a chain of events compromising a server.
+
+Your target is to investigate the file, identify the malicious payload, and uncover the attacker's objectives.
+  hatevibe.zip

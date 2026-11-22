@@ -1,0 +1,16 @@
+FS Enc
+
+Category: rev   Difficulty: 2
+
+Description
+# FS-Enc
+
+My buddy wrote a small file encryption tool.
+He says it is so small that it must be secure, also because it is difficult to reverse engineer Rust binaries.
+
+But now I encrypted my flag and forgot the password!
+Can you help me recover it?
+
+
+Task
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

@@ -1,0 +1,12 @@
+
+- name: mathclipse
+- description:
+```
+
+Where mathematics meets the abyss.
+Logic is the seal. There is no escape.
+
+nc mathclipse.chal.hitconctf.com 16767
+
+mathclipse-7c2aa0c80e529aa3.tar.gz
+```

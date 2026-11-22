@@ -1,0 +1,8 @@
+- Challenge Name: read the flag 4
+- Challenge Category: OSINT
+- Challenge Difficulty: Medium
+- Challenge Flag: `d4rk{silverapartments}c0de`
+- Challenge Description: Where did they play as a kid? (use correct spelling) Flag format: `d4rk{Name Of The Place}c0de`
+- Challenge Files: -
+- Challenge Author: [d4r5h](https://github.com/DarshBhilwara)
+- Challenge Solution: Look at the place around a gas agency named Govila Enterpises and find the place.

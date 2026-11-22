@@ -1,0 +1,15 @@
+Eisoptrophobia
+
+Points: 490   Solves: 24
+
+Description
+Something strange is happening in the mirror. What appears to be an ordinary reflection may be hiding something more than meets the eye. Look closely, investigate the image, and uncover what lies beneath the surface.
+
+Task
+Eisoptrophobiactf.png
+
+Tags
+easy
+
+Category
+forensics

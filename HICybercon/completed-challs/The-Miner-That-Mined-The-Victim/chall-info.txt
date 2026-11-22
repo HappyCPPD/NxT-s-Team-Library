@@ -1,0 +1,19 @@
+Name: The Miner That Mined The Victim
+Category: Forensics
+Points/Solves: 106 / 61
+Author: Hidden Investigations
+Tags: (none)
+Files: the-miner-that-mined-the-victim.zip
+Connection: LIVE INSTANCE (start on platform Instancer before solving)
+SHA-256: 5ac6011a696266ecaa40b9cb4948a247a6a3ca1ebe465cc60249c170d77d2182  [OK]
+
+Description:
+Just start the instance and enjoy it. They get 14 questions in order, one at a time.
+Three wrong answers in a row wipe their progress and close the connection. Answering
+all 14 in one run prints the flag.
+
+**Files:** [the-miner-that-mined-the-victim.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/the-miner-that-mined-the-victim/af988edd740b1069/the-miner-that-mined-the-victim.zip)
+
+SHA-256: `5ac6011a696266ecaa40b9cb4948a247a6a3ca1ebe465cc60249c170d77d2182`
+
+**Flag Format:** `hiCTF{}`

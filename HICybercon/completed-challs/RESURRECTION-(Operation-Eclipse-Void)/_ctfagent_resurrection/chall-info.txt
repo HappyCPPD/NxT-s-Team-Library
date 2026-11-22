@@ -1,0 +1,15 @@
+Tier-0 infrastructure collapsed under an absolute scorched-earth purge. The adversary severed their uplink leaving zero userland footprints, zero dropped scripts, and a pulverized volume geometry that defies standard triage parsing.
+
+Classified signals intelligence indicates the transmission was shattered not into files, but into the structural dissonance of the medium itself. The beacon exists solely within the silent spaces:
+
+Shattered-Geometry, Chrono-Echoes, and Unmapped-Voids.
+
+Recover the transmission from the wreckage.
+
+Note: Each recovered phase reveals an ordinal identifier tag. Concatenate all five payload segments in order.
+
+Files: resurrection.zip
+
+SHA-256: 46834f01b2a123bfdc10ec9d6d79a0d73347597922d282388bab0b9d399e0643
+
+Flag Format: hiCTF{part1part2part3part4part5}

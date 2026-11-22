@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "name": "DPS A Book",
+  "category": "OSINT",
+  "value": 400,
+  "solves": 0,
+  "description": "What do only the OGs remember? \r\n\r\nflag format: `d4rk{...}`",
+  "connection_info": null,
+  "tags": []
+}

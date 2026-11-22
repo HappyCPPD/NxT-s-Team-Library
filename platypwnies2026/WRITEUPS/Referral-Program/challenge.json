@@ -1,0 +1,10 @@
+{
+  "slug": "referral",
+  "categorySlug": "blockchain",
+  "name": "Referral Program",
+  "difficulty": 2,
+  "order": 3,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/fe0f981a-8ad7-4640-9a62-e226554447cc?expiry=1794593402&token=WmJ1i29hit82e2J819Muekj9J-2C-LJ7vj9FpLu1MEXSSdELGwt9xv1SIOXe4-vuGhnh_wqRp_olzHHMa0mChw%3D%3D",
+  "canBeStarted": true,
+  "description": "# Referral Program\n\nPlatyVault v2 is upgradeable now and comes with a brand new referral program. Bring your friends!\n"
+}

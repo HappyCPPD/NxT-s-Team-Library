@@ -1,0 +1,8 @@
+- Challenge Name: Oh My JEFF
+- Challenge Category: OSINT
+- Challenge Difficulty: EASY
+- Challenge Flag: `d4rkc0de{111101001111010011110100}`
+- Challenge Description: Someone stop his assembly, SIGJEFF is not fast enough.
+- Challenge Files: [files](files/)
+- Challenge Author: [Arnav](https://github.com/arnavgupta2003)
+- Challenge Solution: Search for JEFF dean facts on google. SIGJEFF is a pun. His code needs 3*HALT to stop code. 11110100 is opcode for HALT, need this thrice.

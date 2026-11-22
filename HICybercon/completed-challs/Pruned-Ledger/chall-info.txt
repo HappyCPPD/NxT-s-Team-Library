@@ -1,0 +1,17 @@
+Name: Pruned Ledger
+Category: blockchain
+Points/Solves: 500 / 1
+Author: Hidden Investigations
+Tags: (none)
+Files: pruned-ledger.zip
+Connection: N/A (file-only)
+SHA-256: aefb1f1300ca8758ba53fa17ae485a06ed1d48afd5bca941c305a23210dc78fd
+
+Description:
+A settlement-ledger system was decommissioned, and the operator cleared selected fields from current contract storage. The complete chain archive remains available.
+
+Reconstruct the pruned case file for case 0xca5ef11e.
+
+**Files:** [pruned-ledger.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/pruned-ledger/838ea34a21770c49/pruned-ledger.zip)
+
+SHA-256: `aefb1f1300ca8758ba53fa17ae485a06ed1d48afd5bca941c305a23210dc78fd`

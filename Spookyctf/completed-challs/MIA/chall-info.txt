@@ -1,0 +1,17 @@
+MIA
+
+Points: 742   Solves: 23
+
+Description
+We lost direct contact with an informant days ago after someone caught onto their trail. Most recently, we intercepted some digital traffic, a photo, that may help us determine where the informant went. We are aware that the informant did want to visit a historical site for a drop-off; the individual likely brought them somewhere nearby to hide.
+
+Flag format: spooky{Site_Name_Here}
+
+Task
+Unknown_Photo.png
+
+Tags
+medium
+
+Category
+osint

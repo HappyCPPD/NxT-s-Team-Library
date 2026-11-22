@@ -1,0 +1,19 @@
+{
+  "id": "dd259ba4-ec98-4470-99f2-869a8baaa688",
+  "name": "The Miner That Mined The Victim",
+  "description": "Just start the instance and enjoy it. They get 14 questions in order, one at a time.\nThree wrong answers in a row wipe their progress and close the connection. Answering\nall 14 in one run prints the flag.\n\n**Files:** [the-miner-that-mined-the-victim.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/the-miner-that-mined-the-victim/af988edd740b1069/the-miner-that-mined-the-victim.zip)\n\nSHA-256: `5ac6011a696266ecaa40b9cb4948a247a6a3ca1ebe465cc60249c170d77d2182`\n\n**Flag Format:** `hiCTF{}`",
+  "category": "Forensics",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 106,
+  "solves": 61,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

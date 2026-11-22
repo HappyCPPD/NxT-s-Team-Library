@@ -1,0 +1,18 @@
+Signpost
+
+Category: osint   Difficulty: 2
+
+Description
+# Sign post
+
+This year's hiking adventure was amazing.
+Where was this photo taken?
+
+Brute force is neither necessary nor allowed to solve this challenge. Do not attack the location picker tool. The tool is rate-limited to three tries per minute, so be careful when you submit. A full-resolution version of the image is available for download.
+
+![A signpost](https://api.platypwn.ctf.platypwnies.de/v1/assets/b8862108-617f-4b1a-a09e-ca7f28b74c45?expiry=1794593407&token=XDurlk8y6flyFUcaxWQyWc_5thH13ITPDMXKmx4yzEg8fB4Xb_NIef2q62RebN_xx8YzwTWF8bnw2w1FkANEuQ%3D%3D)
+
+
+Task
+osint.signpost.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

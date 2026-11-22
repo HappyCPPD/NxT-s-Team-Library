@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "name": "Xenoglossophobia",
+  "category": "misc",
+  "value": 663,
+  "solves": 73,
+  "description": "so many languages ... so many ways to interpret data ... please help me! looking at this challenge makes me feel like I am cutting onions right now 🤮",
+  "connection_info": null,
+  "tags": [
+    "Scripting",
+    "Log Analysis",
+    "medium"
+  ]
+}

@@ -1,0 +1,15 @@
+Frankenstein's Password Generator
+
+Points: 741   Solves: 25
+
+Description
+Dr. Frankenstein left behind a strange password generator in an abandoned NJIT laboratory. The machine refuses to start without an activation phrase. His last notebook entry reads, "A bolt at midnight gave it life." Can you figure out what the program expects and wake the creature?
+
+Task
+Frankenstein_Password_Generator.zip
+
+Tags
+medium
+
+Category
+binrev

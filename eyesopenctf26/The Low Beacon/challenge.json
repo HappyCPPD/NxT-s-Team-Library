@@ -1,0 +1,10 @@
+{
+  "id": 12,
+  "name": "The Low Beacon",
+  "category": "Crypto",
+  "value": 400,
+  "solves": 23,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nBlack Reef Relay, officially dead eleven years, sent four seconds last week, signed by missing EyesOpen Protocol founder Dr Assa Abene. Its parameters are incorrect in ways no serious cryptographer would choose. Recover the emergency message: its timestamp dates the first Gate event threatening Douala.\n\n**OBJECTIVE**\n\nRecover the emergency EyesOpen prior analysis message from Douala’s first Gate event so there is no doubt which gates to close, or which history of Douala is the real one.\n\n**ENTRYPOINT**\n\n- Open your private analysis workbench from the link shown with this challenge.\n\n---\n**[Launch Workbench](https://ctffactory.com/workbench/launch?job=f23e3fdaf950&ctf=b28ccaa5451a447cb2e65f8a5c5a389f)**",
+  "connection_info": "",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+J*b Application
+
+Points: 500   Solves: 0
+
+Description
+Welcome to the future of job applications! Here at AI Slop, we pride ourselves on streamlining the application process and helping candidates find their perfect role at our company using our AI-powered hiring platform. Submit your application and have our AI Slop screening system evaluate your life. We at AI Slop look forward to working with you in the future!
+
+Task
+
+
+Connection
+http://3.22.226.215
+
+Tags
+easy
+
+Category
+web

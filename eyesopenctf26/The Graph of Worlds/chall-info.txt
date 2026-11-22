@@ -1,0 +1,29 @@
+The Graph of Worlds
+
+Points: 600   Solves: 48
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+In Douala, NORA-7 commits to opening the Directorate’s continuity graph: thirty-nine Fragments authenticated, one left. Traverse the relationships the interface refuses to expose and reconstruct the complete Gate topology. Establish where every route ends, and in what order those routes were ever meant to be closed.
+
+**OBJECTIVE**
+
+In Douala, NORA-7 must open the Directorate’s Continuity Graph and recover the EyesOpen prior analysis so we know which gates to close and which history of Douala is the real one.
+
+**ENTRYPOINT**
+
+- Connect to: https://chal-webapp-e4be9e-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Task
+
+
+Connection
+https://chal-webapp-e4be9e-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Category
+Web

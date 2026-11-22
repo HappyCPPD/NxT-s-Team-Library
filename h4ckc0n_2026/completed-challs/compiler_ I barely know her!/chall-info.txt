@@ -1,0 +1,16 @@
+compiler? I barely know her!
+
+Points: 100   Solves: 213
+
+Description
+Idk what she did, but my code runs a lot faster now! <br>
+select easy by entering `1`
+
+Task
+compiler-easy-handout.zip
+
+Connection
+nc 0.cloud.chals.io 24814
+
+Category
+PWN

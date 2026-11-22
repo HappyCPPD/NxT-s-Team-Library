@@ -1,0 +1,8 @@
+- Challenge Name: read the flag 1
+- Challenge Category: OSINT
+- Challenge Difficulty: EASY
+- Challenge Flag: `d4rk{aligarh,uttarpradesh}c0de`
+- Challenge Description: Read it carefully. The flag is with someone who is in IIIT Delhi reminiscing the old times and their hometown. What town/city are they talking about? Flag format: `d4rk{Name Of The City,Name Of It's State}c0de` (all lowercase, no spaces)
+- Challenge Files: -
+- Challenge Author: [d4r5h](https://github.com/DarshBhilwara)
+- Challenge Solution: Go to `r/IIIT__Delhi` and look at some top posts. You will find and account named `Slow_Swimmer_5957` and when you go to their post about hometown and see the first image of that post, you will easily get to know that the city they are talking about is Aligarh.

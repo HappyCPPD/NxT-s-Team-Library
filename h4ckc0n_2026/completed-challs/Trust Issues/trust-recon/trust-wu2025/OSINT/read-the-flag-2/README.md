@@ -1,0 +1,8 @@
+- Challenge Name: read the flag 2
+- Challenge Category: OSINT
+- Challenge Difficulty: MEDIUM
+- Challenge Flag: `d4rk{habibgarden}c0de`
+- Challenge Description: Where did the user have the best food of their life? Flag format: `d4rk{Name Of The Place}c0de` (no spaces, all lowercase)
+- Challenge Files: -
+- Challenge Author: [d4r5h](https://github.com/DarshBhilwara)
+- Challenge Solution: Move around the area found in the first image on the same road and find the name of the place associated with the image.

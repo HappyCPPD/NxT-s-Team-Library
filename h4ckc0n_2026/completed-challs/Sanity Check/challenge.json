@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Sanity Check",
+  "category": "General",
+  "value": 50,
+  "solves": 441,
+  "description": "Did you join the discord?\r\n\r\nHave a look at the announcements ;)",
+  "connection_info": " https://discord.gg/4hmn7zJ3fv",
+  "tags": []
+}

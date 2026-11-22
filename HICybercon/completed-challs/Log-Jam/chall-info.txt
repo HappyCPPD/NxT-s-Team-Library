@@ -1,0 +1,11 @@
+*Someone forgot to shred their logs.*
+
+We caught an encrypted transmission leaving an adversary's network. The recovery was messy, but everything we salvaged is in params.json.
+
+Find the key. Read the message.
+
+Files: logjam.zip
+
+SHA-256: 25350191fa48891bf7ef70202a283fbbb9ea1d9c1c8904b5a5a4d09903fccfee
+
+Flag Format: hiCTF{}

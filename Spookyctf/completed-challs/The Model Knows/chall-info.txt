@@ -1,0 +1,17 @@
+The Model Knows
+
+Points: 750   Solves: 1
+
+Description
+You have been given a chat model that knows the vault key, for some reason it seems to have gone crazy and it won't reveal it to us.
+
+Recover the exact flag string memorized by the model.
+
+Task
+
+
+Connection
+https://drive.google.com/file/d/18af51vhHyW2jYkUUYntZfCsuEXqFL6Lb/view
+
+Category
+misc

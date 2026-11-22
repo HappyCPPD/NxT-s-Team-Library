@@ -1,0 +1,22 @@
+Carbon
+
+Category: fullpwn   Difficulty: 1
+
+Description
+# Carbon
+
+Platypus Freight lets its customers check their transport emissions in
+**Carbon**, a shiny new customer portal. The ops team says the box behind it
+was "cleaned up for SOC2" in September, and that no passwords are lying around
+anymore.
+
+Get a foothold through the portal, then work your way to root.
+
+**Flags:** the user flag is in `/home/operator/user.txt`, the root flag in
+`/root/root.txt`.
+
+Reverse shells to your own machine are allowed for this challenge.
+
+
+Task
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

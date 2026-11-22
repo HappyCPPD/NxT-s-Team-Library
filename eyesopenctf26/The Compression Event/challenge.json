@@ -1,0 +1,10 @@
+{
+  "id": 22,
+  "name": "The Compression Event",
+  "category": "Forensics",
+  "value": 600,
+  "solves": 24,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nMeridian’s containment lab loses eleven thousand files in under two seconds. NORA-7 studies the 04:02 ticket’s three shrinking drafts and the flaw “like two photographs printed on a single sheet”. The lab needs the event’s entropy pattern to save an EyesOpen prior analysis fragment.\n\n**OBJECTIVE**\n\nIn Douala, recover the EyesOpen prior analysis fragment Meridian’s containment lab lost so we can know which gates to close, and which history of Douala is the real one.\n\n**ENTRYPOINT**\n\n- Open your private analysis workbench from the link shown with this challenge.\n\n---\n**[Launch Workbench](https://ctffactory.com/workbench/launch?job=210ff628dd73&ctf=b28ccaa5451a447cb2e65f8a5c5a389f)**",
+  "connection_info": "",
+  "tags": []
+}

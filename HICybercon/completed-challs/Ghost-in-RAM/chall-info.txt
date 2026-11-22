@@ -1,0 +1,17 @@
+Name: Ghost in RAM
+Category: Forensics
+Points/Solves: 500 / 0
+Author: Hidden Investigations
+Tags: (none)
+Files: ghost-in-ram.zip
+Connection: N/A (file-only)
+SHA-256: 5d93dd23e89876a4d7caead1dca17121ae36a17a29941a6c0bd75fccf13f020e
+
+Description:
+We pulled a RAM image from a Linux box that had been acting strange — steady CPU, The box has since been wiped, so this image is all that's left. Something was hiding in there, and it took a secret to the grave. Bring it back.
+
+**Files:** [ghost-in-ram.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/ghost-in-ram/0313b4eb77b58ccf/ghost-in-ram.zip)
+
+SHA-256: `5d93dd23e89876a4d7caead1dca17121ae36a17a29941a6c0bd75fccf13f020e`
+
+**Flag Format:** `hiCTF{}`

@@ -1,0 +1,14 @@
+who ran
+
+Points: 300   Solves: 0
+
+Description
+i am running away vroom
+
+![who_ran.webp](/files/382997931ddfe9deae34f1bc87dbe301/who_ran.webp)
+
+Task
+
+
+Category
+OSINT

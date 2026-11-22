@@ -1,0 +1,13 @@
+
+- name: Book of Eclipse
+- description:
+```
+
+Every theorem it reveals comes with a consequence.
+
+PS: Please solve this challenge locally first then run your solver on the remote server.
+
+nc bookofeclipse.chal.hitconctf.com 13370
+
+book-of-eclipse-d795403de4b58e6c.tar.gz
+```

@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "name": "The Forgotten Session",
+  "category": "Web",
+  "value": 100,
+  "solves": 8,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nEOCON's archived portal holds a session predating this competition, its handwritten expiry set to 2199. It requests routes that appear in no sitemap, no press kit, no conference programme. Dr Assa Abene sends you after its marker; the conference front door is still open.\n\n**OBJECTIVE**\n\nRecover the EyesOpen prior analysis from Meridian Route Intake in Douala before the conference closes its doors for good.\n\n**ENTRYPOINT**\n\n- Connect to: https://chal-webapp-f09329-eyesopenctf26-094858-91fd03.ctf.ctffactory.com",
+  "connection_info": "https://chal-webapp-f09329-eyesopenctf26-094858-91fd03.ctf.ctffactory.com",
+  "tags": []
+}

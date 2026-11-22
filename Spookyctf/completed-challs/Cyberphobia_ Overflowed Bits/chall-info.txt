@@ -1,0 +1,23 @@
+Cyberphobia: Overflowed Bits
+
+Points: 500   Solves: 0
+
+Description
+I can’t trust computers anymore. I trusted the input, it overflowed.
+
+*flag format is spooky{response_from_server}*
+
+*Note this challenge was made from students as part of a class project, please be kind and provide feedback here: https://docs.google.com/forms/d/e/1FAIpQLSdJHmfIxsN-tXX82pWJq2To2WxUcZpiU29l-UMlFZct0eFu-Q/viewform*
+
+Task
+main
+main.c
+
+Connection
+nc 18.226.103.146 1337
+
+Tags
+easy
+
+Category
+binrev

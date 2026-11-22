@@ -1,0 +1,7 @@
+"Sub-rosa whispers transversed the local interstice through an unmapped portico, unheeded by corporeal eyes. Scrutinize the ephemeral colloquy where disparate entities conjoined in silence. The prime fracture unbinds the isolated, sightless sanctum, whose lingering phantom subsequently redirects reality itself."
+
+Files: tessera.zip
+
+SHA-256: 18db37d7930dd005a409d96dee26de3de827c6a3296a3c45e7159dad6050c798
+
+Flag Format: hiCTF{part1part2part3}

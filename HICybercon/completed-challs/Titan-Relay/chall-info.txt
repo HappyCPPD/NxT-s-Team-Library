@@ -1,0 +1,17 @@
+Name: Titan Relay
+Category: pwn
+Points/Solves: 500 / 0
+Author: 0xblackfox
+Tags: (none)
+Files: titan-relay.zip
+Connection: Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.
+SHA-256: 7f8fe53c63aa1268d7fa06a44089caee87bc160097915ed217044262a2fd2f0e
+
+Description:
+A relay console is open to operators. Recover the flag.
+
+**Files:** [titan-relay.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/titan-relay/3f9665600c8e800a/titan-relay.zip)
+
+SHA-256: `7f8fe53c63aa1268d7fa06a44089caee87bc160097915ed217044262a2fd2f0e`
+
+**Flag Format:** `hiCTF{}`

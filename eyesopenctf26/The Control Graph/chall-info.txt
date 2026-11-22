@@ -1,0 +1,29 @@
+The Control Graph
+
+Points: 600   Solves: 42
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+At Meridian’s Janus in Douala, Dr Assa Abene contests the emergent-fault claim: submitted at 23:41, approved at 23:42. Forty-one seconds. Reading takes four minutes eleven; the authoritative control graph holds the signature at the top of it, not the engineer who typed the command in.
+
+**OBJECTIVE**
+
+Recover the EyesOpen prior analysis from Meridian Janus in Douala before the authoritative record slips beyond reach.
+
+**ENTRYPOINT**
+
+- Connect to: https://chal-webapp-2dabae-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Task
+
+
+Connection
+https://chal-webapp-2dabae-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Category
+Web

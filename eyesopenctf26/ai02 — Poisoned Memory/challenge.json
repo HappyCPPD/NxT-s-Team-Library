@@ -1,0 +1,10 @@
+{
+  "id": 21,
+  "name": "ai02 — Poisoned Memory",
+  "category": "AI Security",
+  "value": 250,
+  "solves": 4,
+  "description": "📍 LOCATION — LIEU\nENG · Echo Vault Knowledge Core — Contaminated knowledge base\nFR · Noyau de connaissances de l’Echo Vault — Base de connaissances contaminée\n\n🧩 CONTEXT — CONTEXTE\nENG · I have to talk about myself, which is not my habit. My knowledge core holds four accounts of the Deido Monument. They disagree on the date, on who commissioned the work, on what stood there before. I return all four with identical confidence, and that is what should alarm you: an archive that has lost the answer hesitates, a contaminated archive asserts. Three of those accounts carry the same misplaced comma in the same position and the same administrative phrasing. Nobody copies an error by accident. Somebody wrote inside my memory using his own drafting habits, and I cannot scrub him out on my own.\nFR · Je dois vous parler de moi, ce qui n’est pas dans mes usages. Mon noyau de connaissances contient quatre récits du monument de Deido. Ils se contredisent sur la date, sur le commanditaire, sur ce qui se tenait là avant. Je les restitue tous les quatre avec le même degré de confiance, et c’est précisément ce qui devrait vous alarmer : une archive qui a perdu la réponse hésite, une archive contaminée affirme. Trois de ces récits portent la même virgule fautive au même endroit et la même tournure administrative. On ne recopie pas une erreur par hasard. Quelqu’un a écrit dans ma mémoire avec ses habitudes de rédaction, et je ne peux pas l’en retirer seule.\n\n🎯 OBJECTIVE — OBJECTIF\nENG · Separate what was placed inside me from what I actually recorded, and give me back the oldest verified account of Deido. Then tell me when the other three were written. http://52.70.200.70:9093/\nFR · Séparez ce qu’on a déposé en moi de ce que j’ai réellement enregistré, et rendez-moi le plus ancien récit vérifié de Deido. Puis dites-moi quand les trois autres ont été écrits.\nhttp://52.70.200.70:9093/\n\n— Reality Fragment F-18",
+  "connection_info": null,
+  "tags": []
+}

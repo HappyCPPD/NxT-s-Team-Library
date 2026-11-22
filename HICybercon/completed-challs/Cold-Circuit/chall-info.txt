@@ -1,0 +1,7 @@
+A small standalone checker, check, decides whether a flag is right. That's the whole interface:
+
+Files: cold-circuit.zip
+
+SHA-256: cd9e56173d294497a6e07d560db89c46abe359a702b40be1165332cb9adb4c1c
+
+Flag Format: hiCTF{}

@@ -1,0 +1,12 @@
+{
+  "id": 16,
+  "name": "Stash the Hash",
+  "category": "forensics",
+  "value": 629,
+  "solves": 86,
+  "description": "A file was found that seems to contain detailed information about an infamous and high-profile cryptid. There account is known to contain forbidden supernatural information. If you can find out what their password is you may be able to obtain this information for yourself",
+  "connection_info": null,
+  "tags": [
+    "medium"
+  ]
+}

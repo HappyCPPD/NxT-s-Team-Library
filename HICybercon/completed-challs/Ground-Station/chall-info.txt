@@ -1,0 +1,35 @@
+Name: Ground Station
+Category: Hardware
+Points/Solves: 83 / 99
+Author: Hidden Investigations
+Tags: (none)
+Files: ground-station.zip
+Connection: Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.
+SHA-256: 21eecb59a1d0559081a7aaf53abc2e8187178dd4d667279906932dde4a574a19
+
+Description:
+A satellite ground-support station runs its propellant fueling and cooling on
+an aging GSC-7 field controller. Before the next payload test can be
+authorized, the controller has to be validated — and right now it won't pass:
+a safety interlock on the fueling sequence looks wrong, and the one engineer
+who touched it last is unreachable.
+
+You're the contracted security engineer. You have network access to the live
+controller and a copy of its maintenance toolkit, including the controller
+firmware image. Work out how the controller authenticates an engineer, find
+and correct the altered safety logic, make the fix actually stick, and bring
+the fueling/cooling test to a clean, safe completion. The controller issues a
+validation token only on a genuinely successful run.
+
+This is a facility-validation exercise: defensive work on launch-support
+infrastructure. No targeting or weapons systems are involved.
+
+The toolkit, firmware image, protocol reference, and control narrative are in
+the download. The controller exposes a control service and a read-only
+telemetry feed; see the reference document for ports and commands.
+
+**Files:** [ground-station.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/ground-station/de3e956d178e8138/ground-station.zip)
+
+SHA-256: `21eecb59a1d0559081a7aaf53abc2e8187178dd4d667279906932dde4a574a19`
+
+**Flag Format:** `hiCTF{}`

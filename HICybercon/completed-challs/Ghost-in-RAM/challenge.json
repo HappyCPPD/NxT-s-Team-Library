@@ -1,0 +1,19 @@
+{
+  "id": "b9a2cff7-7dd1-4702-a125-a2ce7eccae11",
+  "name": "Ghost in RAM",
+  "description": "We pulled a RAM image from a Linux box that had been acting strange \u2014 steady CPU, The box has since been wiped, so this image is all that's left. Something was hiding in there, and it took a secret to the grave. Bring it back.\n\n**Files:** [ghost-in-ram.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/ghost-in-ram/0313b4eb77b58ccf/ghost-in-ram.zip)\n\nSHA-256: `5d93dd23e89876a4d7caead1dca17121ae36a17a29941a6c0bd75fccf13f020e`\n\n**Flag Format:** `hiCTF{}`",
+  "category": "Forensics",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 500,
+  "solves": 0,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": null,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

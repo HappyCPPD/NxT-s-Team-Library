@@ -1,0 +1,29 @@
+Assa’s Maze
+
+Points: 400   Solves: 27
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+Dr Assa Abene wrapped this tool in seven layers. Two thirds down she stopped renaming her variables, and one of them is still called papa. It keeps how the Watcher mandate passes on, and what ends it. Her voice recordings no longer feel safe to check. Recover it as Assa recorded it, not as the Protocol says.
+
+**OBJECTIVE**
+
+Recover the complete EyesOpen prior analysis from Dr Assa Abene's layered tool, so the gates of Douala can be closed and its true history told.
+
+**ENTRYPOINT**
+
+- Open your private analysis workbench from the link shown with this challenge.
+
+---
+**[Launch Workbench](https://ctffactory.com/workbench/launch?job=c4a1a4404ea7&ctf=b28ccaa5451a447cb2e65f8a5c5a389f)**
+
+Task
+
+
+Category
+Rev

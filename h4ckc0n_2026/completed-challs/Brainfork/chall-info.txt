@@ -1,0 +1,16 @@
+Brainfork
+
+Points: 400   Solves: 206
+
+Description
+This code seems to be asking for some kind of flag. . .
+
+`nc 0.cloud.chals.io 31389`
+
+ flag format: `d4rk{...}c0de - yes, this has a different format`
+
+Task
+output.txt
+
+Category
+Rev

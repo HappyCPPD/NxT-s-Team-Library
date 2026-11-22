@@ -1,0 +1,10 @@
+{
+  "slug": "horseracing",
+  "categorySlug": "web",
+  "name": "Hold Your Horses",
+  "difficulty": 1,
+  "order": 0,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/d1de733a-c504-46b4-9e41-7f8662c2b787?expiry=1794593389&token=mF8-oCEiDRp6zkLBDZQs6b8L6xFenG2lkbHoZSP88zetntjHz58xjI07djnZqIMFzrwXeZsjpaUAmgQnG60FZw%3D%3D",
+  "canBeStarted": true,
+  "description": "# Hold Your Horses\n\nBetting on Horse Racing is a great pastime, but sadly the odds are stacked against you.\nCan you still find a way to beat the house and reach VIP status?\n"
+}

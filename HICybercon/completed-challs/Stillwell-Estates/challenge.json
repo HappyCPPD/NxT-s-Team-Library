@@ -1,0 +1,19 @@
+{
+  "id": "fe0fbf3a-5036-476e-af77-d50a20aeeb4d",
+  "name": "Stillwell Estates",
+  "description": "The homes look perfect. The paperwork never does. STILLWELL is a boutique brokerage connecting people with the right homes. Its new agent portal accepts compressed partner exports and previews listings \u2014 and the documents attached to them \u2014 before publication. During an acquisition, someone left a restricted closing ledger somewhere it shouldn\u2019t be. Find the authorization token.",
+  "category": "web",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 137,
+  "solves": 40,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

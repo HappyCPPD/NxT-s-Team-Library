@@ -1,0 +1,10 @@
+{
+  "id": 40,
+  "name": "boxdletter",
+  "category": "Misc",
+  "value": 484,
+  "solves": 11,
+  "description": "dec0d3 da b4rc0des\r\n\r\nflag format: `d4rk{movie1_movie2_movie3}`\r\n\r\n\r\n",
+  "connection_info": null,
+  "tags": []
+}

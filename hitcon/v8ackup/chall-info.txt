@@ -1,0 +1,12 @@
+
+- name: v8ackup
+- description:
+```
+
+I think every CTF should have at least one v8 challenge? so here it is~
+instance http://v8ackup.chal.hitconctf.com:3000/
+
+v8ackup-bf96a9cf7d03f6a3.tar.gz
+```
+
+team token: 2773f096-8423-4a83-ba45-42121d15c3b2

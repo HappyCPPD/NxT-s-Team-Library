@@ -1,0 +1,10 @@
+{
+  "slug": "destruction",
+  "categorySlug": "crypto",
+  "name": "DEStruction",
+  "difficulty": 2,
+  "order": 4,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/5aab059a-98fb-4d73-a720-e7f42bb8ec94?expiry=1794593382&token=lqyU_TEniQKUMUAXvITNJp0lwOUC7ZTA2DA9l329cWDr0cuxpvV2HU4JmxnxUrHr0HcPTjuCjvFxqD1z1oaaLA%3D%3D",
+  "canBeStarted": true,
+  "description": "# DEStruction\n\nIt was a cold night when the ritual took place. Surrounded by 64 candles, imbued with the power of finite fields and a long forgotten manuscript, authored by the Necromancer Initiative for Sorcery and Thaumaturgy, the unholy Dance of Enchantment and Spells awakened an ancient Feistel network, which now ravages the lands. The people call out its new name in fear: Apparition Expunged out of Alchemic Doom. Only you can stop this Gluttenous Catastrophe of Mankind!\n\n![des-gcm meme](https://api.platypwn.ctf.platypwnies.de/v1/assets/9bc7ed94-ecdb-4d21-b0ac-03e698c9ec6c?expiry=1794593382&token=vJUdQ7mFeT_NwLYlkQhsDFKrV7hgtlYFkAfXuwz3xphjA6Sy7FSz0eHu8vEVln13nQ-gUuJ9SBIlwzNBYKKgWw%3D%3D)\n"
+}

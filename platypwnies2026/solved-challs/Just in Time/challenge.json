@@ -1,0 +1,10 @@
+{
+  "slug": "justintime",
+  "categorySlug": "blockchain",
+  "name": "Just in Time",
+  "difficulty": 1,
+  "order": 0,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/7240adf0-26be-4cf0-a31d-cc9dac084291?expiry=1794593398&token=VwpSnXIoZI1TPhW8nHucO-4c6VL-v_hrv_3cjAL2RqWOnvjg8YF5aVcs0Zg3jgRdFbakWiechk6DWGW7Tpz45w%3D%3D",
+  "canBeStarted": true,
+  "description": "# Just in Time\n\nOur new vault creates its own password the very moment it is deployed. Nobody has ever seen it, so it must be secure, right?\n"
+}

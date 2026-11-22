@@ -1,0 +1,10 @@
+{
+  "slug": "legacyit",
+  "categorySlug": "ad",
+  "name": "Legacy IT",
+  "difficulty": 1,
+  "order": 0,
+  "staticFilesArchiveUrl": null,
+  "canBeStarted": true,
+  "description": "# Legacy IT\n\nAD is considered legacy, even by Microsoft. Yet even in a legacy environment, you can always have *more* legacy.\n\nNote: The flag can be found on the Administrator's Desktop\nAlso note that the challenge may need up to 10min to spawn because AD is slow, sorry :(\n"
+}

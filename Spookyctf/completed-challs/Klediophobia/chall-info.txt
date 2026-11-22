@@ -1,0 +1,34 @@
+Klediophobia
+
+Points: 741   Solves: 25
+
+Description
+Some keys are better left buried...
+
+After a mysterious midnight key-generation ceremony, SpookyTrust proudly announced the creation of four new intermediate CA certificates. Each passed verification with flying colors.
+
+Whispers of an unusual event buried deep within the HSM logs have raised suspicions about the ceremony. The engineers insist everything went according to plan, but can their certificates really be trusted?
+
+You've been given access to the certificates, signing requests, and audit records. Can you uncover SpookyTrust's darkest secret?
+
+SpookyTrust's audit server is waiting for proof. Recover the compromised signing key and use it to sign a fresh audit message. The server expects an ECDSA-SHA384 signature over the exact UTF-8 message, encoded as Base64 (DER). If you can convince the server that you possess the key, it will surrender the flag.
+
+Task
+root.pem
+key-inventory.csv
+client.py
+ceremony.log
+ST-ISS-04.pem
+ST-ISS-04.csr.pem
+ST-ISS-03.pem
+ST-ISS-03.csr.pem
+ST-ISS-02.pem
+ST-ISS-02.csr.pem
+ST-ISS-01.pem
+ST-ISS-01.csr.pem
+
+Connection
+http://3.149.129.229:8000/
+
+Category
+crypto

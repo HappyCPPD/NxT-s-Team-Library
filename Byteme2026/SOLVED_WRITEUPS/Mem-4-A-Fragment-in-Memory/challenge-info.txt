@@ -1,0 +1,235 @@
+
+ECHOES OF VORMIR
+Sarthak Warale
+Hard
+POV Type: BLUE
+
+Vormir remembers.
+
+Something happened on a Windows machine before its memory was captured.
+
+The evidence is scattered, and not everything left behind is what it seems.
+
+Begin by understanding the memory you've been given. Then follow the traces left behind by the expedition.
+
+Five artifacts remain.
+
+The expedition ends when the final record is found.
+
+ 
+
+File: https://drive.google.com/file/d/1MDxFTw1jL51mBowK_fk_v07BxT0wt8gg/view?usp=sharing
+
+ 
+
+Note: You will be using same file through out the mission
+
+Flag format: OWASP{...}
+
+
+Mem-1 : When It Happened
+CTF7
+Created On : 08 Oct, 2026
+
+    Challenge Details
+    Solves (3)
+
+Challenge Description
+
+Before following the trail, determine when the machine gave up its secrets.
+
+Find the time recorded in the memory image.
+
+Flag format: OWASP{YYYY-MM-DD HH:MM:SS}
+
+This challenge has 1 flag(s) with following format(s)
+
+OWASP{...}
+Submit Your Flag
+Flag
+Challenge Details
+Author 	
+Points 	100
+Difficulty 	Easy
+Category 	
+Hints
+
+Unlimited
+Used Hints
+
+No hints used yet.
+Unused Hints
+
+No hints for this challenge.
+File Attachments
+
+No attachments available.
+Resource URL Attachments
+Memdump
+External Link
+
+
+No img
+Mem-2 : Soul Hunt
+CTF7
+Created On : 08 Oct, 2026
+
+    Challenge Details
+    Solves (2)
+
+Challenge Description
+
+Among everything running on the machine, something doesn't belong.
+
+Find it.
+
+This challenge has 1 flag(s) with following format(s)
+
+OWASP{...}
+Submit Your Flag
+Flag
+Challenge Details
+Author 	
+Points 	200
+Difficulty 	Medium
+Category 	
+Hints
+
+Unlimited
+Used Hints
+
+No hints used yet.
+Unused Hints
+
+No hints for this challenge.
+File Attachments
+
+No attachments available.
+Resource URL Attachments
+
+No resource URLs available.
+
+
+No img
+Mem-3 : The Painted Soul
+CTF7
+Created On : 08 Oct, 2026
+
+    Challenge Details
+    Solves (1)
+
+Challenge Description
+
+Some things are easier to remember when they are seen.
+
+Find what was left behind.
+
+This challenge has 1 flag(s) with following format(s)
+
+OWASP{...}
+Submit Your Flag
+Flag
+Challenge Details
+Author 	
+Points 	300
+Difficulty 	Hard
+Category 	
+Hints
+
+Unlimited
+Used Hints
+
+No hints used yet.
+Unused Hints
+
+No hints for this challenge.
+File Attachments
+
+No attachments available.
+Resource URL Attachments
+
+No resource URLs available.
+
+
+Mem-4 : A Fragment in Memory
+CTF7
+Created On : 08 Oct, 2026
+
+    Challenge Details
+    Solves (30)
+
+Challenge Description
+
+Not everything that existed on the machine was meant to survive.
+
+One fragment remained where few people think to look. 
+
+Dig deeper. Might be image.
+
+This challenge has 1 flag(s) with following format(s)
+
+OWASP{...}
+Submit Your Flag
+Flag
+Challenge Details
+Author 	
+Points 	250
+Difficulty 	Hard
+Category 	
+Hints
+
+Unlimited
+Used Hints
+
+No hints used yet.
+Unused Hints
+
+No hints for this challenge.
+File Attachments
+
+No attachments available.
+Resource URL Attachments
+
+No resource URLs available.
+
+
+Mem-5 : The Last Trace
+CTF7
+Created On : 08 Oct, 2026
+
+    Challenge Details
+    Solves (30)
+
+Challenge Description
+
+Someone was looking for something on web shortly before the machine was captured.
+
+The trail did not end on the filesystem, Instead in the web.
+
+Follow it.
+
+This challenge has 1 flag(s) with following format(s)
+
+OWASP{...}
+Submit Your Flag
+Flag
+Challenge Details
+Author 	
+Points 	200
+Difficulty 	Medium
+Category 	
+Hints
+
+Unlimited
+Used Hints
+
+No hints used yet.
+Unused Hints
+
+No hints for this challenge.
+File Attachments
+
+No attachments available.
+Resource URL Attachments
+
+No resource URLs available.

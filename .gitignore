@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.so
+*.bin
+*.dd
+*.img
+*.vmdk
+*.zip
+*.7z
+*.tar.gz

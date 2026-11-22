@@ -1,0 +1,10 @@
+{
+  "id": 20,
+  "name": "brew&drew",
+  "category": "Crypto",
+  "value": 200,
+  "solves": 213,
+  "description": "These two twins brew and drew are communicating, they talk less but when they do they use weird crypto-schemes, we tried to log the start of it. \r\nHere, we are providing the file with their logged conversation.\r\nflag: `d4rk{...}`\r\n",
+  "connection_info": null,
+  "tags": []
+}

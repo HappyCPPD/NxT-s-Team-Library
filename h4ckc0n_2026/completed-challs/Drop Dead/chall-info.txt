@@ -1,0 +1,12 @@
+Drop Dead 
+
+Points: 100   Solves: 158
+
+Description
+Hmmm.. I have heard of a foreign six, travelers call it 6^2
+
+Task
+dead_drop.zip
+
+Category
+Forensics

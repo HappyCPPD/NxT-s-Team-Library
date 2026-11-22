@@ -1,0 +1,52 @@
+read the rules
+
+Points: 5   Solves: 136
+
+Description
+***Be sure to read through the full rules and information below! Failure to do so can potentially result in a ban, even if you "didn't know."***
+
+# Rules
+1. **DO NOT ATTACK THE INFRASTRUCTURE!**
+    - This can take down the challenge, and the bill will keep us college students from even affording ramen!
+    - None of the challenges require the use of gobuster, directory fuzzer, etc. *Unless the challenge **explicitly** states this, do not use it.* **We promise you do not need these tools for our challenges!**
+    - *Do not try to hack the CTF infrastructure!*
+    - *Do not DDOS the servers or challenges!*
+    - *Do not dox anything!*
+    - Even if we did not list a specific attack here, ***don't harm the infrastructure!***
+    - *Evidence of use of tools like these will result in a **complete ban of the user and team!***
+2. **This is a student-run competition meant for other students.** Everyone is welcome, *be kind*, *chill*, and *patient*.
+3. **Respect the community!** We're all here to learn and grow within cybersecurity. Don't yuck someone else's yum, respect differences with taste.
+    - *No harassment*
+    - *Don't attack others*
+    - *Don't target other players or the infrastructure*
+    - *Do not dox others*
+    - *No racist, degrading, explicit, adult, or controversial conversations, usernames, nicknames, profile pictures, or statuses.* (If you have to ask, *it's probably not okay!*)
+    - ***Failure to follow this rule can lead to an immediate ban.***
+4. **Don't spam the Discord server.** This includes posting off-topic or repetitive messages!
+5. **Don't ask the mods on Discord for the flag, or ask within tickets for the flag.** Tickets are meant for broken things! If there are hints on the challenges, they should suffice!
+6. **Do not advertise** other CTFs or Discord Servers without asking the organizers or administrators first.
+7. **We love writeups!** Just please wait until ***after*** the CTF is over to post!
+8. **Don't share flags!** You learn nothing by doing this.
+9. **Follow the Discord Community Guidelines.**
+10. **Spot an issue? Is something broken?** *Open a ticket!*
+11.  **Is AI usage allowed?**
+We are fine with the usage of AI depending on how it is being utilized.  We prohibit the usage of AI to interact with competition infrastructure, which includes but not limited to actions such as viewing challenges on the CTF platform or submitting solves for challenges. Teams which use AI in this fashion are immediatly subject to disqualification! If you have team members with accessibility needs and this statement is a concern, please open a ticket! However, AI can be used as a tool for human team members! 
+
+Violation of any of the rules may lead to **deletion of messages**, **bans from the Discord server**, and a **ban from the CTF**. Administrators and moderators can act with discretion, within reason.
+
+# Information
+1. **Flag Format:** Unless otherwise specified, the flag format is `spooky{}`.
+    - *Only the value between the curly braces `{}` will change!*
+    - *Example:* `spooky{th1s_could-b3-a_flag!}`
+2. **Sp00ky memes** are rewarded sometimes.
+3. **Stay within scope of the CTF.** *Unless we specify* that you need to go to another website to find the answer, *you'll find everything here!*
+    - **EXCEPTION:** OSINT challenges will likely need the use of external websites.
+4. **OSINT challenges will not** require you to use restricted websites, such as `.mil` websites or paywalled websites.
+
+if you understand and will comply to the rules, please submit the flag:  **spooky(i_understand}**
+
+Task
+
+
+Category
+rules

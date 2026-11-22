@@ -1,0 +1,21 @@
+Peering Eyes 
+
+Points: 833   Solves: 109
+
+Description
+recently EYE have been feeling super paranoid using my computer. almost like someone is watching. Can you make sure EYE am not going crazy!? i swear it feels like people are just taking pictures of me...
+
+download memory forensics capture from drive link:
+sha256 :cc89dd1b0799b1f4acde678d913e38e8c1f90e7575323d15c70d7ffe561b664e
+
+Task
+symbols.json.xz
+
+Connection
+https://vengeful-mastodon.pikapod.net/d?id=2SMiUFNrnWQXcZA
+
+Tags
+memory forensics, hard
+
+Category
+forensics

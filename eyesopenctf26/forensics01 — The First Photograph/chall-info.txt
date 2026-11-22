@@ -1,0 +1,26 @@
+forensics01 — The First Photograph
+
+Points: 100   Solves: 25
+
+Description
+📍 LOCATION — LIEU
+ENG · Deido Maintenance Access — Original maintenance photograph
+FR · Accès de maintenance de Deido — Photographie originale de maintenance
+
+🧩 CONTEXT — CONTEXTE
+ENG · I rebuilt this image from three corrupted backups. It is the only known photograph of Samuel Mboa inside the perimeter. Look at his left hand: he holds his badge turned toward the lens — the way a person assembles evidence, not the way a person poses. Behind him, a maintenance door that appears on none of the plans I hold, and I hold every plan of Deido filed since 1962. Nobody photographs an ordinary door with that much care. The file is dated eleven days before he disappeared. He was documenting something, and he already expected not to be believed.
+FR · J’ai reconstitué cette image à partir de trois sauvegardes corrompues. C’est la seule photographie connue de Samuel Mboa à l’intérieur du périmètre. Regardez sa main gauche : il tient son badge tourné vers l’objectif — comme on constitue une preuve, pas comme on pose. Derrière lui, une porte de maintenance qui ne figure sur aucun plan en ma possession, et je possède tous les plans de Deido depuis 1962. On ne photographie pas une porte banale avec ce soin-là. Le fichier est daté de onze jours avant sa disparition. Il documentait quelque chose, et il s’attendait déjà à ne pas être cru.
+
+🎯 OBJECTIVE — OBJECTIF
+ENG · Establish where this photograph was really taken, and how deep. I want the coordinates of a door that appears on no map, and I want them precise enough to defend in front of an archivist.
+52.70.200.70:8080/forensics001/Samuel_Photo.png
+FR · Établissez où cette photographie a réellement été prise, et à quelle profondeur. Je veux les coordonnées d’une porte absente de toute carte, et je les veux assez précises pour être défendues devant une archiviste.
+52.70.200.70:8080/forensics001/Samuel_Photo.png
+
+— Reality Fragment F-05
+
+Task
+
+
+Category
+Forensics

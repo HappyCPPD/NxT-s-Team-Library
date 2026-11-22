@@ -1,0 +1,9 @@
+A network gateway is listening for operators. Authenticate to the console and recover the flag.
+
+Files: project-mangoo.zip
+
+SHA-256: 6ec89ce54df8cfca960ef028270e674688a0fa10633e9ffa10d48c4558e91a3f
+
+Flag Format: hiCTF{}
+
+Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.

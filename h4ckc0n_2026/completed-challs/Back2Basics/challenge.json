@@ -1,0 +1,10 @@
+{
+  "id": 28,
+  "name": "Back2Basics",
+  "category": "Web",
+  "value": 100,
+  "solves": 145,
+  "description": "Foundations shall prevail\r\n\r\nflag format: `d4rk{frag1_frag2_frag3_frag4_frag5_frag6}`\r\n\r\nhttps://web-basics-chall.onrender.com/\r\n",
+  "connection_info": null,
+  "tags": []
+}

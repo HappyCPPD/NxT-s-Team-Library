@@ -1,0 +1,17 @@
+Name: Rocinate Revenge
+Category: cryptography
+Points/Solves: 500 / 0
+Author: Tsumiiiiiiii
+Tags: (none)
+Files: rocinate-revenge.zip
+Connection: N/A (file-only)
+SHA-256: 78540bed7e1e9fbe4deb67f710abde453b7fd87116fda6c61360749c735d9101
+
+Description:
+🤭
+
+**Files:** [rocinate-revenge.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/rocinate-revenge/b3e419fc5e6b49ca/rocinate-revenge.zip)
+
+SHA-256: `78540bed7e1e9fbe4deb67f710abde453b7fd87116fda6c61360749c735d9101`
+
+**Flag Format:** `hiCTF{}`

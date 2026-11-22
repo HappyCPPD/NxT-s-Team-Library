@@ -1,0 +1,15 @@
+Ron's Revenge
+
+Category: crypto   Difficulty: 2
+
+Description
+# Ron's Revenge
+
+Eight times the size, eight times the fun!
+
+![Cover](https://api.platypwn.ctf.platypwnies.de/v1/assets/ba47ee9d-2120-4b98-ab5f-6d709241fddf?expiry=1794593385&token=OADg0Ss-vWQ-RatnxYrjvciZS-UXlsU_eCX1PUKh1XhhAybn2cxDFquNgc4xk9NGbxlpB2gAnid_WGg3k12kow%3D%3D)
+
+
+Task
+crypto.ronsrevenge.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

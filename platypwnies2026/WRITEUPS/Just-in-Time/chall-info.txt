@@ -1,0 +1,13 @@
+Just in Time
+
+Category: blockchain   Difficulty: 1
+
+Description
+# Just in Time
+
+Our new vault creates its own password the very moment it is deployed. Nobody has ever seen it, so it must be secure, right?
+
+
+Task
+blockchain.justintime.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

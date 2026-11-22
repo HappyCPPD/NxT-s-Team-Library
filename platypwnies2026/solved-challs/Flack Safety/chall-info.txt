@@ -1,0 +1,21 @@
+Flack Safety
+
+Category: fullpwn   Difficulty: 3
+
+Description
+# Flack Safety
+
+In your home country, the Peaceful Paddle of Platypuses (PPP), the government has been placing AI (sorry -- SI) powered security cameras in public spaces, for the "public safety".
+
+![Flack Safety Camera](https://api.platypwn.ctf.platypwnies.de/v1/assets/45225080-0a0a-4000-a837-a6197c837052?expiry=1794593393&token=SzKlDu22m-6V4pgw0IqFcPVXxoQjT6q3KwnB3FPcJ0ccBxlO7FWcD8W7OH8S8zkDBTiwxIzdwLdc1Z9MN-5hkA%3D%3D)
+
+During a recent riot, you were able to get your hands on one of the cameras, and found the IP address and `/etc/shadow` entry for an employee's workstation.
+
+![Torn Down Camera](https://api.platypwn.ctf.platypwnies.de/v1/assets/675b4966-bb63-4dd3-9d3f-a589b29f9198?expiry=1794593393&token=Lot0WwUa4uvXYIu9YDkmVQBaAXMZFn5onVWThdl5R7NLlawFAkigrIZzyt59Eg1dqJstIJ1HBXpt1zvUNrj2dQ%3D%3D)
+
+You can't live with these guys hoarding all those videos of innocent citizens! Make sure they can never restore their footage again, from any backup tier. Progress (and your flags) show up on the internal backup dashboard, which you can reach from the workstation. It comes up a few minutes after your instance starts, once every backup exists.
+
+
+Task
+fullpwn.flacksafety.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

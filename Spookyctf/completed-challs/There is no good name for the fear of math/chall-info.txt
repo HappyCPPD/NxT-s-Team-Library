@@ -1,0 +1,12 @@
+There is no good name for the fear of math.
+
+Points: 741   Solves: 25
+
+Description
+read the participantFiles! and try you best 💚
+
+Task
+chal.py
+
+Category
+crypto

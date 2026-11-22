@@ -1,0 +1,10 @@
+{
+  "slug": "ronsrevenge",
+  "categorySlug": "crypto",
+  "name": "Ron's Revenge",
+  "difficulty": 2,
+  "order": 1,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/dcc51ae0-e446-4e2d-8828-dea8985f546a?expiry=1794593385&token=dCF8zUy4O7jyvS-5UIGfHm8RyuyXGHcnDZIigV9Y7gad_lwkant0R7U1KTNvXqNeLUAu2pi2upFr743wowxaUg%3D%3D",
+  "canBeStarted": true,
+  "description": "# Ron's Revenge\n\nEight times the size, eight times the fun!\n\n![Cover](https://api.platypwn.ctf.platypwnies.de/v1/assets/ba47ee9d-2120-4b98-ab5f-6d709241fddf?expiry=1794593385&token=OADg0Ss-vWQ-RatnxYrjvciZS-UXlsU_eCX1PUKh1XhhAybn2cxDFquNgc4xk9NGbxlpB2gAnid_WGg3k12kow%3D%3D)\n"
+}

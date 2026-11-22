@@ -1,0 +1,10 @@
+{
+  "id": 59,
+  "name": "Message from miku",
+  "category": "Forensics",
+  "value": 200,
+  "solves": 0,
+  "description": "A fan site for a certain teal-haired virtual idol went live last night, and it’s been broadcasting something strange ever since. Everything looks ordinary on the surface, but the site is hiding more than it shows. Look closer, and see what’s been left behind. Not everything on this page is meant for visitors.\r\n\r\n**Flag**: `d4rk{<put the message in here>}`",
+  "connection_info": "https://h4ckc0n-playforge.chals.io/miku/",
+  "tags": []
+}

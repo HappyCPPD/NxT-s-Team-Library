@@ -1,0 +1,16 @@
+Trust Issues
+
+Points: 100   Solves: 53
+
+Description
+Dont we all love OSINT, 
+This guy did too
+
+Task
+
+
+Connection
+https://github.com/codrrr-max
+
+Category
+OSINT

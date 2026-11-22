@@ -1,0 +1,20 @@
+Name: Standing Order
+Category: blockchain
+Points/Solves: 104 / 63
+Author: Hidden Investigations
+Tags: (none)
+Files: standing-order-player.zip
+Connection: Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.
+SHA-256: 1d8cc1775f249e3ad8c8d1afc3ebff3e065e7dc238384152ba84992d7c51d823
+
+Description:
+A grant program pays out against approvals signed by its committee. Two
+redemption paths exist -- one for small onboarding credits, one for the
+committee's own larger approvals -- and both were wired against the same
+signature check.
+
+**Files:** [standing-order-player.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/standing-order-player/0e24419812dc79a4/standing-order-player.zip)
+
+SHA-256: `1d8cc1775f249e3ad8c8d1afc3ebff3e065e7dc238384152ba84992d7c51d823`
+
+**Flag Format:** `hiCTF{}`

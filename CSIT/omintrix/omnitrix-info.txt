@@ -1,0 +1,23 @@
+Omnitrix
+TISC LEVEL 7
+description
+
+Something has gone wrong inside the Singularity.
+
+While tracing one of its older compromises, we found references to a Plumber facility in Bellwood. The facility disappeared from every modern database years ago, but its server is still responding.
+
+The files mention an alien device, something called the Omnitrix, and a man named Vilgax who spent years trying to take it.
+
+The strange part is that these records predate The Singularity by a decade.
+
+And yet, the machine seems to know about them.
+
+Whatever happened here, The Singularity has inherited something that was never supposed to be part of it.
+
+Find out what.
+
+Note: this is an instanced challenge, refer to the instructions in omnitrix-connector.zip to login. Use the same credentials as you would for this platform.
+attached files
+Dockerfile
+omnitrix
+omnitrix-connector.zip

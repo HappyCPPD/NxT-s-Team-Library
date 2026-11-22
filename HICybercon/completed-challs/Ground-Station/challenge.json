@@ -1,0 +1,19 @@
+{
+  "id": "1cfece5d-3d61-4ed6-bd5b-5cebb48a1bd0",
+  "name": "Ground Station",
+  "description": "A satellite ground-support station runs its propellant fueling and cooling on\nan aging GSC-7 field controller. Before the next payload test can be\nauthorized, the controller has to be validated \u2014 and right now it won't pass:\na safety interlock on the fueling sequence looks wrong, and the one engineer\nwho touched it last is unreachable.\n\nYou're the contracted security engineer. You have network access to the live\ncontroller and a copy of its maintenance toolkit, including the controller\nfirmware image. Work out how the controller authenticates an engineer, find\nand correct the altered safety logic, make the fix actually stick, and bring\nthe fueling/cooling test to a clean, safe completion. The controller issues a\nvalidation token only on a genuinely successful run.\n\nThis is a facility-validation exercise: defensive work on launch-support\ninfrastructure. No targeting or weapons systems are involved.\n\nThe toolkit, firmware image, protocol reference, and control narrative are in\nthe download. The controller exposes a control service and a read-only\ntelemetry feed; see the reference document for ports and commands.\n\n**Files:** [ground-station.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/ground-station/de3e956d178e8138/ground-station.zip)\n\nSHA-256: `21eecb59a1d0559081a7aaf53abc2e8187178dd4d667279906932dde4a574a19`\n\n**Flag Format:** `hiCTF{}`",
+  "category": "Hardware",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 83,
+  "solves": 99,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

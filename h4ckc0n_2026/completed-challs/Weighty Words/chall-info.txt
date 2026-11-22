@@ -1,0 +1,15 @@
+Weighty Words
+
+Points: 500   Solves: 0
+
+Description
+Old tongues call picture a thousand words, Verily this scroll hath few words, yet it groaneth like a cart of stones
+
+Task
+
+
+Connection
+https://www.dropbox.com/scl/fi/k5h6tz3gwlppbadc7r7pa/paper.pdf
+
+Category
+Forensics

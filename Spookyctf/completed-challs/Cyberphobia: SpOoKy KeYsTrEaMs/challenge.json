@@ -1,0 +1,12 @@
+{
+  "id": 21,
+  "name": "Cyberphobia: SpOoKy KeYsTrEaMs ",
+  "category": "crypto",
+  "value": 50,
+  "solves": 155,
+  "description": "Nothing is secure nowadays, not even the own ciphers my machine generates. Take a look for yourself, I don't know how people on the internet were able to retrieve my encrypted flag with just these files... \r\n\r\n*Note this challenge was made from students as part of a class project, please be kind and provide feedback here: https://docs.google.com/forms/d/e/1FAIpQLSdJHmfIxsN-tXX82pWJq2To2WxUcZpiU29l-UMlFZct0eFu-Q/viewform*",
+  "connection_info": null,
+  "tags": [
+    "easy"
+  ]
+}

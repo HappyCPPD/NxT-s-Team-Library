@@ -1,0 +1,10 @@
+{
+  "id": 25,
+  "name": "bandswidth",
+  "category": "Web",
+  "value": 100,
+  "solves": 96,
+  "description": "A huge file hides a something.",
+  "connection_info": "https://h4ckc0n-bandwidth.chals.io/download",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "carbon",
+  "categorySlug": "fullpwn",
+  "name": "Carbon",
+  "difficulty": 1,
+  "order": 0,
+  "staticFilesArchiveUrl": null,
+  "canBeStarted": true,
+  "description": "# Carbon\n\nPlatypus Freight lets its customers check their transport emissions in\n**Carbon**, a shiny new customer portal. The ops team says the box behind it\nwas \"cleaned up for SOC2\" in September, and that no passwords are lying around\nanymore.\n\nGet a foothold through the portal, then work your way to root.\n\n**Flags:** the user flag is in `/home/operator/user.txt`, the root flag in\n`/root/root.txt`.\n\nReverse shells to your own machine are allowed for this challenge.\n"
+}

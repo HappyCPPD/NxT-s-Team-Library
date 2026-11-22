@@ -1,0 +1,12 @@
+Hashphobia
+
+Points: 745   Solves: 19
+
+Description
+While interning at the SOC office a coworker said they came across a strange executable. Fearing that you may accidentally run it they sent the hash (f854432d21db979021f45b85384b7f2d6500fa2f62981c87ebba79b3d46f1a7b) and asked you to do some recon.
+
+Task
+
+
+Category
+misc

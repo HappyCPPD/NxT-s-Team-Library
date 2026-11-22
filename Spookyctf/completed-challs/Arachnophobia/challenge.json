@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Arachnophobia",
+  "category": "forensics",
+  "value": 438,
+  "solves": 57,
+  "description": "Something about the SpookyCTF logo feels off… like something’s tangled in the webs",
+  "connection_info": null,
+  "tags": [
+    "easy"
+  ]
+}

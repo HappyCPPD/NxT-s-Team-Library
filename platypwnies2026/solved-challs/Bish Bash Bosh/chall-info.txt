@@ -1,0 +1,13 @@
+Bish Bash Bosh
+
+Category: misc   Difficulty: 1
+
+Description
+# Bish Bash Bosh
+
+*Let* me just quickly bash something together so you can't get my `/flag/flag.txt`.
+
+
+Task
+misc.bishbashbosh.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

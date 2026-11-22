@@ -1,0 +1,36 @@
+Borrowed Instructions
+
+Points: 400   Solves: 0
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+Meridian's Gate controller is live in Douala, built from unreadable Anchor components. Its surviving comment: do not refactor, nobody knows why this works. Dr Assa Abene needs its Reality Fragment for the EyesOpen prior analysis before another Gate opens.
+
+**OBJECTIVE**
+
+In Douala, help Dr Assa Abene recover the Reality Fragment for the EyesOpen prior analysis before another Gate opens, so we can know which gates to close and which history is real.
+
+**ENTRYPOINT**
+
+- ncat --ssl ctf-proxy-eyesopenctf26-b611905f.pwn.ctf.ctffactory.com 10000
+- openssl s_client -quiet -connect ctf-proxy-eyesopenctf26-b611905f.pwn.ctf.ctffactory.com:10000 -servername ctf-proxy-eyesopenctf26-b611905f.pwn.ctf.ctffactory.com
+- Token: your own, valid one hour: get it at https://ctffactory.com/challenge-access/pwn/b28ccaa5451a447cb2e65f8a5c5a389f/8a73939134264311dd99827549e1808e (signed in with the account you joined this event with)
+
+Service URL: tcp://ctf-proxy-eyesopenctf26-b611905f.pwn.ctf.ctffactory.com:10000
+
+### Files
+- [Download weathered_anchor.zip](3de6b03d9fd912abfc866c36088f12ef/weathered_anchor.zip)
+
+Task
+weathered_anchor.zip
+
+Connection
+ncat --ssl ctf-proxy-eyesopenctf26-b611905f.pwn.ctf.ctffactory.com 10000
+
+Category
+Pwn

@@ -1,0 +1,7 @@
+A mysterious image from the shores of Zanzibar has surfaced. Locals say it carries a hidden message — a whisper from the Spice Island. Can you uncover its secret?
+
+Files: zanzibar-whisper.zip
+
+SHA-256: 48aedaaf1a363d859ceaece068354394edd6a8ff1ea7245af3fde395aa749a67
+
+Flag Format: hiCTF{}

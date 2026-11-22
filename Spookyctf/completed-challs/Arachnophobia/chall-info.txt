@@ -1,0 +1,15 @@
+Arachnophobia
+
+Points: 438   Solves: 57
+
+Description
+Something about the SpookyCTF logo feels off… like something’s tangled in the webs
+
+Task
+tangled.png
+
+Tags
+easy
+
+Category
+forensics

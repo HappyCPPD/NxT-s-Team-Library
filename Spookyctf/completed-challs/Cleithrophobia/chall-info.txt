@@ -1,0 +1,15 @@
+Cleithrophobia
+
+Points: 740   Solves: 26
+
+Description
+You are stuck inside of the Enterprise with no way out. The rest of the crew has gone missing. They need help finding a way back to a Federation outpost but the ship is stuck dead in space. Maybe the packet file they have can find a way to start the ship.
+
+Task
+Cleithrophobia.pcap
+
+Tags
+Wireshark, Network Traffic Analysis, medium
+
+Category
+forensics

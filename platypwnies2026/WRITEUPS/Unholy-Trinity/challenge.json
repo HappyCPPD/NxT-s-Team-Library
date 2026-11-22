@@ -1,0 +1,10 @@
+{
+  "slug": "unholytrinity",
+  "categorySlug": "crypto",
+  "name": "Unholy Trinity",
+  "difficulty": 2,
+  "order": 0,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/dfb36e90-cc73-4333-a523-8033d28a16ff?expiry=1794593384&token=mzGQQINo7nsO9sz2ecuf52qxvMwACMTbdEbA95a0MYGe4eDZB7mKy3qirnnR8CZCb9jgKVkxYkTng58an4DOUw%3D%3D",
+  "canBeStarted": true,
+  "description": "# Unholy Trinity\n\nCommitments are basically hashes, signatures are essentially hashes, and hashes are fundamentally encryption.\n\n![hash-equivalence-triangle](https://api.platypwn.ctf.platypwnies.de/v1/assets/dbf3fba7-e7cd-48bc-90ea-38a72f5c40d8?expiry=1794593384&token=GnMWzeBFRpnQdHW9tj6SrDhPSpXir-skUWf7lCRQy2rf0Hwt9vEiAp55ZATxBmMr8plwtS5ayL8HCu3WmbZx6Q%3D%3D)\n"
+}

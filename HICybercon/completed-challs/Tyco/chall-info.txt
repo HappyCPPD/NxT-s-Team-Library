@@ -1,0 +1,7 @@
+🫠🤖
+
+Files: tyco.zip
+
+SHA-256: f88f50cb0857595fce5457bc73d756215326093d6a1a478ae552d58460dc99f2
+
+Flag Format: hiCTF{}

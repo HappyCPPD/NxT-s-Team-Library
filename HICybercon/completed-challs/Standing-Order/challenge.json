@@ -1,0 +1,19 @@
+{
+  "id": "4b0623b2-54b1-412a-8407-cc469bf7f490",
+  "name": "Standing Order",
+  "description": "A grant program pays out against approvals signed by its committee. Two\nredemption paths exist -- one for small onboarding credits, one for the\ncommittee's own larger approvals -- and both were wired against the same\nsignature check.\n\n**Files:** [standing-order-player.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/standing-order-player/0e24419812dc79a4/standing-order-player.zip)\n\nSHA-256: `1d8cc1775f249e3ad8c8d1afc3ebff3e065e7dc238384152ba84992d7c51d823`\n\n**Flag Format:** `hiCTF{}`",
+  "category": "blockchain",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 104,
+  "solves": 63,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

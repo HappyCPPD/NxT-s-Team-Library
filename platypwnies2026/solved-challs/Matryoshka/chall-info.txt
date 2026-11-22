@@ -1,0 +1,12 @@
+Matryoshka
+
+Category: rev   Difficulty: 1
+
+Description
+# Matryoshka
+
+It's a multi-stage ~~rocket~~ binary!
+
+
+Task
+rev.matryoshka.zip

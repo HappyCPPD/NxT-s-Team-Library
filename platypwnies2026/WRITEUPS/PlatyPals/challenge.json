@@ -1,0 +1,10 @@
+{
+  "slug": "platypals",
+  "categorySlug": "blockchain",
+  "name": "PlatyPals",
+  "difficulty": 2,
+  "order": 4,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/2381d53c-ee60-4455-b239-a59a6a5fe4e5?expiry=1794593394&token=KqZsn8Bx8u2TaWz7K1IYLosDoYYvsXOCZIDd_g7kayhcq08AfDVmWYTMot_8NoA1kv6E-IjnWTHzbK-x7g1NPw%3D%3D",
+  "canBeStarted": true,
+  "description": "# PlatyPals\n\nCollect them all! Only the luckiest collectors will ever own a legendary pal.\n"
+}

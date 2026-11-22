@@ -1,0 +1,23 @@
+Cyberphobia: Formatting Nightmare
+
+Points: 608   Solves: 93
+
+Description
+I trusted the string, it revealed my secrets.
+
+*flag can only be fetched from the remote server, wrap answer in spooky{}*
+
+*Note this challenge was made from students as part of a class project, please be kind and provide feedback here: https://docs.google.com/forms/d/e/1FAIpQLSdJHmfIxsN-tXX82pWJq2To2WxUcZpiU29l-UMlFZct0eFu-Q/viewform*
+
+Task
+fsvchall2
+fsvchall2.c
+
+Connection
+nc 18.226.103.146 9002
+
+Tags
+medium
+
+Category
+binrev

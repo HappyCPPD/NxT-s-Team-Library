@@ -1,0 +1,6 @@
+Description
+EnergyVHD has detected a leak of project documentation related to a new solar panel. The suspect — engineer Raskushka Pachetin (that’s what he called himself) — was fired a week ago. Before leaving, he erased all traces from his workstation: he deleted folders, emptied the recycle bin, and cleared the browser history. The IT department created a disk image, but their analysis tools are failing — it seems Raskushka knew he would be under surveillance. Reconstruct the leak path and find the evidence.
+Task
+solar_forensic.zip
+Author
+grizzzer

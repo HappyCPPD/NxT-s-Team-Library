@@ -1,0 +1,10 @@
+{
+  "id": 54,
+  "name": "Hidden In Plain Sight",
+  "category": "The Mirror Investigation",
+  "value": 200,
+  "solves": 130,
+  "description": "**The Evidence is Lying. Or You Are Looking At It Wrong**\r\n\r\nArjun,\r\n\r\nEcho has left us something that doesn't fit.\r\nNo message. No confession. Just animage recovered from the investigation.\r\n\r\nAt first glance, it looks ordinary. Almost familiar. But Echo didn't leave things to chance, and I doubt this imamge is an exception.\r\n\r\nI've seen enough of this case to know that the most obvious explanation is rarely the whole truth\r\n\r\nFind what Echo left\r\n\r\nWord is meaningful here.\r\n\r\n**Flag format:** `d4rk{singleword}`",
+  "connection_info": null,
+  "tags": []
+}

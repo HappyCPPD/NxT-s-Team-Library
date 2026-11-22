@@ -1,0 +1,19 @@
+{
+  "id": "8d5871ff-b72f-49a5-9bdc-235d11dddd42",
+  "name": "Labyrinth",
+  "description": "Somewhere on this port a server is talking in a language no tool has ever heard of. It has no manual and no patience for strangers, but it does answer, and every answer tells you a little more. Listen closely, learn to speak its tongue, and find your way out of the labyrinth behind it. Not every door that glows is an exit.",
+  "category": "misc",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 91,
+  "solves": 81,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

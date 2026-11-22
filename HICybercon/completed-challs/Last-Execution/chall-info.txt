@@ -1,0 +1,7 @@
+The final command was executed. EXE-9 never responded again. A single image survived: last_execution.img It contains broken code, twisted tables, and something that was never meant to be found.
+
+Files: last-execution.zip
+
+SHA-256: 3b82c94be14529c9daacd9709e718e2c0337c11537e1889ef26f8ab16a01bc85
+
+Flag Format: hiCTF{}

@@ -1,0 +1,12 @@
+lsd2
+
+Points: 500   Solves: 0
+
+Description
+lsd was trippy last year, but lsd2 is trippy-er this year!
+
+Task
+lsd2_handout.zip
+
+Category
+Rev

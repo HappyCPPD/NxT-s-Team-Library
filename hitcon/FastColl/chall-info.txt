@@ -1,0 +1,10 @@
+
+- name: FastColl
+- description:
+```
+
+You must know fastcoll which is a good tool!
+Then FastColl again ... challenge_link
+
+fastcoll-a3b7ecfda96b58c1.tar.gz
+```

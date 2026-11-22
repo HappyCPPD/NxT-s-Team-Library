@@ -1,0 +1,29 @@
+The Reflected Warning
+
+Points: 200   Solves: 0
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+Since Tuesday, Douala's municipal alert page reflects a message no agency sent, written in the district's old local spelling: a civil servant, not an intruder. Dr Assa Abene ordered nineteen partial variants for urgency, not evidence. Stabilize the reflected transmission and recover every word, in the sender's order.
+
+**OBJECTIVE**
+
+Stabilise the corrupted transmission on Douala's municipal alert page and recover the complete EyesOpen prior analysis, in its sender's order, before its absence leaves the city unsure which gates to close or which history is the real one.
+
+**ENTRYPOINT**
+
+- Connect to: https://chal-webapp-305bd8-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Task
+
+
+Connection
+https://chal-webapp-305bd8-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Category
+Web

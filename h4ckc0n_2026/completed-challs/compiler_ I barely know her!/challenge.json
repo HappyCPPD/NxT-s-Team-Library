@@ -1,0 +1,10 @@
+{
+  "id": 22,
+  "name": "compiler? I barely know her!",
+  "category": "PWN",
+  "value": 100,
+  "solves": 213,
+  "description": "Idk what she did, but my code runs a lot faster now! <br>\r\nselect easy by entering `1`",
+  "connection_info": "nc 0.cloud.chals.io 24814",
+  "tags": []
+}

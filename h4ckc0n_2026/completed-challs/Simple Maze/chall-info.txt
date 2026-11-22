@@ -1,0 +1,13 @@
+Simple Maze
+
+Points: 100   Solves: 293
+
+Description
+eazyyyyyy! Solve the maze for the flag :))
+![d4rkmaze.png](/files/17bb45da9fe9082592ee2af752117b0a/d4rkmaze.png)
+
+Task
+
+
+Category
+Misc

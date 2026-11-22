@@ -1,0 +1,10 @@
+{
+  "id": 47,
+  "name": "I D0n't Feel S0 G00d",
+  "category": "crypto",
+  "value": 342,
+  "solves": 90,
+  "description": "You wake up in a mad scientist's lab. You feel queasy, like you took old medication. And the feeling is only getting worse. You feel a stinging sensation in your arm and look down to see \"84 53 16 8 28 16 11 6 7\" written on your arm. Looking around, you find two lists: one that seems to be a list of chemicals and another that is all gibberish. On top of the two pages is a note that says \"Don't forget to move the neon!\".\r\n\r\nYour antidote will be formatted like spooky{antidote_here}.",
+  "connection_info": null,
+  "tags": []
+}

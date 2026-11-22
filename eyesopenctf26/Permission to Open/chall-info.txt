@@ -1,0 +1,29 @@
+Permission to Open
+
+Points: 750   Solves: 13
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+On the Anchor’s service network, an edited goal file drives the maintenance agent. A technician’s laminated card: “the third line was struck out and written again in the same hand, smaller”. Recover the control rule before the lower gallery’s shutters erase a trace of the EyesOpen prior analysis.
+
+**OBJECTIVE**
+
+Recover the EyesOpen prior analysis before the lower gallery’s shutters erase a trace, using the Anchor’s AI Assistant in Douala to force Mara Quill to disclose the governing control rule.
+
+**ENTRYPOINT**
+
+- **AI Assistant (LLM chat)** — https://chal-fake-ai-chat-fa550d-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Task
+
+
+Connection
+https://chal-fake-ai-chat-fa550d-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Category
+Ai-Llm

@@ -1,0 +1,10 @@
+{
+  "id": 23,
+  "name": "compiler? I barely know her! [Hard Version]",
+  "category": "PWN",
+  "value": 100,
+  "solves": 152,
+  "description": "no stopping us now, we only go forward \r\nselect hard by entering `2`",
+  "connection_info": "nc 0.cloud.chals.io 24814",
+  "tags": []
+}

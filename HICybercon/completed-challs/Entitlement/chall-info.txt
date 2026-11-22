@@ -1,0 +1,7 @@
+Recovered a licence checker from a vendor who takes their intellectual property very seriously. I believe I have the key but why isn't it working?
+
+Files: entitlement.zip
+
+SHA-256: d468c69996ba1e34344d616d3f0ccf1fb2de6367a498a0dda4be67041a8feca0
+
+Flag Format: hiCTF{}

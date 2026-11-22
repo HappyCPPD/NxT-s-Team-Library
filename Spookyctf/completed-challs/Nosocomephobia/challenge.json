@@ -1,0 +1,12 @@
+{
+  "id": 12,
+  "name": "Nosocomephobia",
+  "category": "osint",
+  "value": 496,
+  "solves": 16,
+  "description": "There is this bottle I found washed on the shore yesterday.. Within it contained a cassette which sounded like simple beeping? I don't know what the beeping could signify but it has to mean something no? In addition, there was this picture within the bottle as well, don't know why it was there but these two artifacts have to be correlated! Can you please give the recording a listen and find when and from where the recording is from?\r\n\r\nFlag format will be: spooky{(Location Name).(Year of Recording)}\r\nExample: spooky{big_ben.1832}",
+  "connection_info": null,
+  "tags": [
+    "easy"
+  ]
+}

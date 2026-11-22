@@ -1,0 +1,15 @@
+No Nonsense on this Server
+
+Points: 723   Solves: 41
+
+Description
+an abandoned research laboratory has recovered an old remote-access server running a proprietary protocol called SP00KY. the server has its original users and filesystem, but its administrator credentials have been lost. you have been given access to a general account. recover the contents of `/home/admin/flag.txt`. host: `` port: `19160` account: `general` the general private key is supplied as `general.pem`. build the reference client from the participant files (`make client`) or reimplement the protocol yourself.
+
+Task
+no-nonsense-participant.zip
+
+Connection
+nc 18.222.247.20 19160
+
+Category
+crypto

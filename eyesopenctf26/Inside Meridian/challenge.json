@@ -1,0 +1,10 @@
+{
+  "id": 11,
+  "name": "Inside Meridian",
+  "category": "Web",
+  "value": 400,
+  "solves": 1,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nOne Meridian service still faces the public internet, and it will fetch things on your behalf — including things it should not be able to see. Behind it sits the internal mesh: node inventories, health checks, and a Project Janus topology that has kept updating itself since the laboratory closed. The on-call directory still shows a rotation. One name, every week, for fourteen months. Either that engineer never left, or nobody has edited the page since everyone around them did. Meridian’s public statements refer, carefully, to “the Gates under our management”.\n\n**OBJECTIVE**\n\nRecover the leaked EyesOpen prior analysis entry by persuading MeridianGate Mart to reveal what its internal mesh says behind the Gates under our management, before the next rotation hides the truth in Douala.\n\n**ENTRYPOINT**\n\n- Connect to: https://chal-webapp-557426-eyesopenctf26-094858-91fd03.ctf.ctffactory.com",
+  "connection_info": "https://chal-webapp-557426-eyesopenctf26-094858-91fd03.ctf.ctffactory.com",
+  "tags": []
+}

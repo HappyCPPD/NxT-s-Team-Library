@@ -1,0 +1,13 @@
+You're not my type
+
+Category: blockchain   Difficulty: 1
+
+Description
+# You're not my type
+
+PlatyPay lets you send money to your friends with human readable amounts. Our backend makes sure that nobody can send more than they have.
+
+
+Task
+blockchain.notmytype.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

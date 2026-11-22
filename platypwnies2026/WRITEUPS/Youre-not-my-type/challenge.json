@@ -1,0 +1,10 @@
+{
+  "slug": "notmytype",
+  "categorySlug": "blockchain",
+  "name": "You're not my type",
+  "difficulty": 1,
+  "order": 1,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/5da817ab-3b96-49ef-b366-7a0755bec2ec?expiry=1794593399&token=bjMfMvnhPSCBPU0UyJ953i9yJPcVmbJdvEUfzaR3TVD2kifshme6ZF3WA-GaTLRJLVnIGshHc9eC_rBt2w5oyA%3D%3D",
+  "canBeStarted": true,
+  "description": "# You're not my type\n\nPlatyPay lets you send money to your friends with human readable amounts. Our backend makes sure that nobody can send more than they have.\n"
+}

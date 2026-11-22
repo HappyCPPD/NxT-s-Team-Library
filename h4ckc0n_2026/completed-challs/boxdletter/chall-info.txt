@@ -1,0 +1,16 @@
+boxdletter
+
+Points: 484   Solves: 11
+
+Description
+dec0d3 da b4rc0des
+
+flag format: `d4rk{movie1_movie2_movie3}`
+
+Task
+movie1.png
+movie2.png
+movie3.png
+
+Category
+Misc

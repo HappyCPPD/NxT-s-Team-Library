@@ -1,0 +1,10 @@
+{
+  "slug": "diceware",
+  "categorySlug": "crypto",
+  "name": "Diceware",
+  "difficulty": 2,
+  "order": 3,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/ba742a20-c9b8-42f8-8bc6-04e0dc9e84ce?expiry=1794593380&token=Z0osdJULX0MJP3aCvDPxbfgrruZsBrh2DBGJgRiA0Aw6B6ZdA33x9yEu5bStRwixtbJiGb1NEB72zVSpRg0CDQ%3D%3D",
+  "canBeStarted": true,
+  "description": "# Diceware\n\nRemember when we used [dice and dictionaries to generate passwords](https://www.eff.org/dice)?\nWell, no-one owns physical dictionaries anymore, and looking up words online would leak your precious passwords.\nCryptography to the rescue: I've built a prototype password manager that fetches each word from the dictionary server without revealing it, using [single-server private information retrieval](https://en.wikipedia.org/wiki/Private_information_retrieval).\nThat way, the database server can be fully untrusted! Check it out!\n"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "name": "Cleithrophobia",
+  "category": "forensics",
+  "value": 740,
+  "solves": 26,
+  "description": "You are stuck inside of the Enterprise with no way out. The rest of the crew has gone missing. They need help finding a way back to a Federation outpost but the ship is stuck dead in space. Maybe the packet file they have can find a way to start the ship.",
+  "connection_info": null,
+  "tags": [
+    "Wireshark",
+    "Network Traffic Analysis",
+    "medium"
+  ]
+}

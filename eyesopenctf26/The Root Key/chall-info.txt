@@ -1,0 +1,32 @@
+The Root Key
+
+Points: 600   Solves: 29
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+Far below Deido, Dr Assa Abene replays the handshake chamber capture: the case label carries the date written twice, the second pass pressed hard enough to score the plastic. The Anchor has opened under an unknown authority. Recover its root material; the EyesOpen prior analysis cannot guide us if that authority is not ours.
+
+**OBJECTIVE**
+
+Recover EyesOpen prior analysis from the Anchor’s opened authority in Douala, before the complete prior analysis is lost and there is no knowing which gates to close, or which history of Douala is the real one.
+
+**ENTRYPOINT**
+
+- Open your private analysis workbench from the link shown with this challenge.
+
+---
+**[Launch Workbench](https://ctffactory.com/workbench/launch?job=86cb4e8c260b&ctf=b28ccaa5451a447cb2e65f8a5c5a389f)**
+
+Task
+
+
+Connection
+https://ctffactory.com/workbench/launch?job=86cb4e8c260b&ctf=b28ccaa5451a447cb2e65f8a5c5a389f
+
+Category
+Crypto

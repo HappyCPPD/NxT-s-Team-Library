@@ -1,0 +1,19 @@
+Name: No Bit Sings Alone
+Category: steg
+Points/Solves: 500 / 0
+Author: Hidden Investigations
+Tags: (none)
+Files: no-bit-sings-alone.zip
+Connection: N/A (file-only)
+SHA-256: 67b6e5bc3583d44d15d1d56d2ad37f6561e0f6c147820573293e80f70b259249
+
+Description:
+A suspicious audio file. Nothing more.
+Or maybe that is exactly what it wants you to think.
+Listen carefully. Look deeper.
+
+**Files:** [no-bit-sings-alone.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/no-bit-sings-alone/f15603c7d6589fb4/no-bit-sings-alone.zip)
+
+SHA-256: `67b6e5bc3583d44d15d1d56d2ad37f6561e0f6c147820573293e80f70b259249`
+
+**Flag Format:** `hiCTF{}`

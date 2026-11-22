@@ -1,0 +1,10 @@
+{
+  "slug": "platylocker",
+  "categorySlug": "blockchain",
+  "name": "PlatyLocker",
+  "difficulty": 1,
+  "order": 2,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/f306ceb5-a272-4c55-b922-4c5222abb796?expiry=1794593401&token=3G3Nv8h6EuX-Mu5_A4EV6cm2ecS0fYndgLXRZJZ2l4El_2OgbRgj7XsRPy6qXU2ka-rp374yCjkU-k3oW7pp5w%3D%3D",
+  "canBeStarted": true,
+  "description": "# PlatyLocker\n\nAll our files have been encrypted and the attackers want 1000 ether to give us our key back. At least they were nice enough to automate the key release with a smart contract.\n"
+}

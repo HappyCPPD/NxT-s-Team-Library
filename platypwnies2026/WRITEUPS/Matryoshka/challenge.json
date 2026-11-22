@@ -1,0 +1,10 @@
+{
+  "slug": "matryoshka",
+  "categorySlug": "rev",
+  "name": "Matryoshka",
+  "difficulty": 1,
+  "order": 0,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/e236953d-dfb4-41f2-90c6-d18ba91b0da8?expiry=1794593278&token=Py-Nc-F2PbJGVIqkm_0e_i2iGFXGKGfM9N-BlxHISpIQ3nwoRrWH_JoNCJFi2dNlYlCmHTFeDRPHLyVB9sSgaw%3D%3D",
+  "canBeStarted": false,
+  "description": "# Matryoshka\n\nIt's a multi-stage ~~rocket~~ binary!\n"
+}

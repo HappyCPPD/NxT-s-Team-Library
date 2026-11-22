@@ -1,0 +1,10 @@
+{
+  "id": 35,
+  "name": "The Model Knows",
+  "category": "misc",
+  "value": 750,
+  "solves": 1,
+  "description": "You have been given a chat model that knows the vault key, for some reason it seems to have gone crazy and it won't reveal it to us.\r\n\r\nRecover the exact flag string memorized by the model.",
+  "connection_info": "https://drive.google.com/file/d/18af51vhHyW2jYkUUYntZfCsuEXqFL6Lb/view",
+  "tags": []
+}

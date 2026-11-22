@@ -1,0 +1,10 @@
+{
+  "id": 7,
+  "name": "First GTA VI Copy",
+  "category": "OSINT",
+  "value": 100,
+  "solves": 162,
+  "description": "who got the first GTA VI copy?\r\n\r\nflag format: `d4rk{name}`\r\n",
+  "connection_info": null,
+  "tags": []
+}

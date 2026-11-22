@@ -1,0 +1,17 @@
+Hemimegaminx
+
+Points: 100   Solves: 118
+
+Description
+Hemimeeeee!!!! Do you know what a megaminx is? well solve this one :))) 
+
+[Research about it online](https://hypercubing.xyz/puzzles/hemimegaminx/)
+
+Task
+
+
+Connection
+https://h4ckc0n-arcade.chals.io/hemimegaminx/
+
+Category
+Misc

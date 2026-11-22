@@ -1,0 +1,17 @@
+State property
+
+Points: 100   Solves: 178
+
+Description
+Well, it infact was state property.
+
+flag format: `d4rk{exact_coordinates}`
+
+flag format: `d4rk{xx.xxxxxxx,yy.yyyyyyy}`
+![state_property.webp](/files/fea07a055bf7fdceda0940f7f709b37f/state_property.webp)
+
+Task
+
+
+Category
+OSINT

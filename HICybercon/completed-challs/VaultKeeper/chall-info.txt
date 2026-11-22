@@ -1,0 +1,7 @@
+"Your master key. Deep cold storage. One tap away." VaultKeeper is the most secure mobile vault ever shipped — the marketing deck says so, twice. Your balance is already waiting inside, and the key to the whole vault is just one button press away. Well. One button press for someone. The APK is right here. See if the vault opens for you. If it doesn't, maybe you didn't earn it.
+
+Files: VaultKeeper.zip
+
+SHA-256: 7c0ccbd218561af27d1f51dcb18cf3ef5ab566e538788d88e285de1fb8d7aa10
+
+Flag Format: hiCTF{}

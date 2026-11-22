@@ -1,0 +1,14 @@
+Hold Your Horses
+
+Category: web   Difficulty: 1
+
+Description
+# Hold Your Horses
+
+Betting on Horse Racing is a great pastime, but sadly the odds are stacked against you.
+Can you still find a way to beat the house and reach VIP status?
+
+
+Task
+web.horseracing.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

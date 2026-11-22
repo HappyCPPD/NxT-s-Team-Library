@@ -1,0 +1,10 @@
+{
+  "id": 45,
+  "name": "Brainfork",
+  "category": "Rev",
+  "value": 400,
+  "solves": 206,
+  "description": "This code seems to be asking for some kind of flag. . .\r\n\r\n`nc 0.cloud.chals.io 31389`\r\n\r\n flag format: `d4rk{...}c0de - yes, this has a different format`",
+  "connection_info": "",
+  "tags": []
+}

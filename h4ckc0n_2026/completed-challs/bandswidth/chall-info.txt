@@ -1,0 +1,15 @@
+bandswidth
+
+Points: 100   Solves: 96
+
+Description
+A huge file hides a something.
+
+Task
+
+
+Connection
+https://h4ckc0n-bandwidth.chals.io/download
+
+Category
+Web

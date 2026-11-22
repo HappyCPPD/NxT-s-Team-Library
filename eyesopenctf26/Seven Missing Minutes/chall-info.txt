@@ -1,0 +1,31 @@
+Seven Missing Minutes
+
+Points: 400   Solves: 44
+
+Description
+**LOCATION**
+
+Port Aurora
+
+**CONTEXT**
+
+Port Aurora’s SOC lost seven minutes. Dr Assa Abene halts an EyesOpen prior analysis transfer. Reconstruct the seven minutes the central collector refused to keep and establish how many realities were occupying Port Aurora while its operators believed the lights had simply gone out.
+
+Port Aurora’s SOC discovered anomalous Kerberos activity after Dr Assa Abene halted an EyesOpen prior analysis transfer. Within minutes, one workstation sourced RC4-HMAC (0x17) service-ticket and pre-auth failures, followed by a single success. Reconstruct the seven-minute gap from Windows Security/KDC events and identify the attacker pivot at Act 3.
+
+**OBJECTIVE**
+
+Reconstruct the seven minutes of missing realities in EyesOpen prior analysis by analyzing the Port Aurora SOC’s Kerberos/Windows Security logs after Dr Assa Abene halts the transfer, and identify the attacker pivot at Act 3.
+
+**ENTRYPOINT**
+
+- Connect to: https://chal-fake-siem-add0be-eyesopenctf26-094858-91fd03.ctf.ctffactory.com?scenario=port_aurora_ad_credential_hunt
+
+Task
+
+
+Connection
+https://chal-fake-siem-add0be-eyesopenctf26-094858-91fd03.ctf.ctffactory.com
+
+Category
+Forensics

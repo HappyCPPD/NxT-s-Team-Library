@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "name": "Ichthyophobia ",
+  "category": "osint",
+  "value": 741,
+  "solves": 25,
+  "description": "I've been having a recurring nightmare since I was a child. I don't know why I keep seeing it over and over, but I vividly dream about this random place I've never been to. It always ends with me falling into this koi pond. The thought of being surrounded by the fish has been bugging me for a long time. Now, as an adult, I've decided to draw what I see, but no one understands why I would be afraid of this place. I feel like I'm losing my mind. I don't remember going here, but it feels so... familiar. I don't know... Can you figure out the name and location of this plaza?\r\n\r\n***Author Note:*** The flag is the name of the most reviewed location at this plaza in all uppercase, no diacritics.",
+  "connection_info": null,
+  "tags": [
+    "medium"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "name": "The Choir Seed",
+  "category": "Rev",
+  "value": 600,
+  "solves": 24,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nAt Meridian’s malware lab, eight different people speak from one sample; beneath an unregistered woman’s name, the analyst wrote: I know her. Dr Assa Abene sends you after The Null Choir before Douala’s histories collide. Reach the innermost payload and recover the stable voiceprint every layer shares.\n\n**OBJECTIVE**\n\nIn Douala, you must reach the innermost payload behind The Null Choir and recover the stable voiceprint every layer shares for EyesOpen prior analysis.\n\n**ENTRYPOINT**\n\n- Open your private analysis workbench from the link shown with this challenge.\n\n---\n**[Launch Workbench](https://ctffactory.com/workbench/launch?job=661e623af3f1&ctf=b28ccaa5451a447cb2e65f8a5c5a389f)**",
+  "connection_info": "",
+  "tags": []
+}

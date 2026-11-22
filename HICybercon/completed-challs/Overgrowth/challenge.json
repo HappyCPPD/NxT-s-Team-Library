@@ -1,0 +1,19 @@
+{
+  "id": "495a8e65-d8b2-40cd-8299-50d62b3e1022",
+  "name": "Overgrowth",
+  "description": "**Overgrowth** is a gardening-supply API. The team swears it's\nlocked down for production. The flag is just a field - one that only the head\ngardener is allowed to pick.",
+  "category": "web",
+  "author": "Oxnoobsec",
+  "files": [],
+  "points": 500,
+  "solves": 0,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

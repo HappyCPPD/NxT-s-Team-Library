@@ -1,0 +1,19 @@
+{
+  "id": "890c1d0d-40bf-477e-98bd-2a1f7a04dfab",
+  "name": "File Viewer",
+  "description": "Upload a file and explore the results.",
+  "category": "web",
+  "author": "0x0Sayan",
+  "files": [],
+  "points": 83,
+  "solves": 98,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

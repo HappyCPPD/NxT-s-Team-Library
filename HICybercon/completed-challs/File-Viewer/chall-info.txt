@@ -1,0 +1,10 @@
+Name: File Viewer
+Category: web
+Points/Solves: 83 / 98
+Author: 0x0Sayan
+Tags: (none)
+Files: (none)
+Connection: Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.
+
+Description:
+Upload a file and explore the results.

@@ -1,0 +1,11 @@
+Evidence tag IR-2231-A, pulled off a workstation mid-engagement. One file, no other artifacts recovered, no notes from the box owner.
+
+It expects one argument: ./cold-beacon <key>. With the right key it prints the config it was carrying; otherwise it just says it's sealed.
+
+Linux x86-64 ELF.
+
+Files: cold-beacon.zip
+
+SHA-256: a01791f8259c7bcf1eb07f578abc686b2a4ab78d4fe410f565c74624e52610d8
+
+Flag Format: hiCTF{}

@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "name": "Drown in Memory",
+  "category": "misc",
+  "value": 936,
+  "solves": 68,
+  "description": "180 meters below the surface, your cage opens into darkness. Follow the flickering wreck lights, scavenge oxygen, and reach the submarine before it finds you.",
+  "connection_info": null,
+  "tags": [
+    "hard"
+  ]
+}

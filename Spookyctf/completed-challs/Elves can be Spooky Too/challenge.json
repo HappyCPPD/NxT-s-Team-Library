@@ -1,0 +1,12 @@
+{
+  "id": 28,
+  "name": "Elves can be Spooky Too",
+  "category": "binrev",
+  "value": 1000,
+  "solves": 0,
+  "description": "the elves left you a very small doorway. you are given a host, a port, and a byte budget. send an x86-64 linux elf that: is at most 112 bytes (the service prints the live limit on connect), writes its own exact bytes to stdout, exits with status 0. do that and the service hands you the flag. host: `` port: `31903` protocol: connect, read the banner, send `SIZE ` then a newline, then exactly `` raw bytes. reply is `PASS`/`FLAG` or `FAIL`.",
+  "connection_info": "nc 3.129.162.36 31903",
+  "tags": [
+    "hard"
+  ]
+}

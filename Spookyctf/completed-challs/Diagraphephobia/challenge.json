@@ -1,0 +1,12 @@
+{
+  "id": 32,
+  "name": "Diagraphephobia",
+  "category": "crypto",
+  "value": 745,
+  "solves": 19,
+  "description": "The Federation has found a redacted file from spying on the Klingon. They want to know the contents of it. Can you find it?",
+  "connection_info": null,
+  "tags": [
+    "medium"
+  ]
+}

@@ -1,0 +1,13 @@
+PlatyPals
+
+Category: blockchain   Difficulty: 2
+
+Description
+# PlatyPals
+
+Collect them all! Only the luckiest collectors will ever own a legendary pal.
+
+
+Task
+blockchain.platypals.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

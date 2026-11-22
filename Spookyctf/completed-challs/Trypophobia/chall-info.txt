@@ -1,0 +1,12 @@
+Trypophobia
+
+Points: 263   Solves: 171
+
+Description
+Classic reverse engineering, right?
+
+Task
+binary
+
+Category
+binrev

@@ -1,0 +1,13 @@
+Referral Program
+
+Category: blockchain   Difficulty: 2
+
+Description
+# Referral Program
+
+PlatyVault v2 is upgradeable now and comes with a brand new referral program. Bring your friends!
+
+
+Task
+blockchain.referral.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

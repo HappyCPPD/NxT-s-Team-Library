@@ -1,0 +1,10 @@
+{
+  "id": 8,
+  "name": "State property",
+  "category": "OSINT",
+  "value": 100,
+  "solves": 178,
+  "description": "Well, it infact was state property.\r\n\r\nflag format: `d4rk{exact_coordinates}`\r\n\r\nflag format: `d4rk{xx.xxxxxxx,yy.yyyyyyy}`\r\n![state_property.webp](/files/fea07a055bf7fdceda0940f7f709b37f/state_property.webp)",
+  "connection_info": null,
+  "tags": []
+}

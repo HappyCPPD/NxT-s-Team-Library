@@ -1,0 +1,10 @@
+{
+  "slug": "bishbashbosh",
+  "categorySlug": "misc",
+  "name": "Bish Bash Bosh",
+  "difficulty": 1,
+  "order": 0,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/7ab2e8a7-ea3f-443a-8ba7-a69e4b107747?expiry=1794593391&token=g9IktbevWD7OZSrsrlKYYMdoidE25W5RunJhI492xLPP4yXFpxMdVwzLUcYdVflU2Wo0YPeTZ1PIVXUJh3RnAQ%3D%3D",
+  "canBeStarted": true,
+  "description": "# Bish Bash Bosh\n\n*Let* me just quickly bash something together so you can't get my `/flag/flag.txt`.\n"
+}

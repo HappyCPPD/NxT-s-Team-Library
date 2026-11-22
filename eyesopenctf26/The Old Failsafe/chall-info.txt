@@ -1,0 +1,36 @@
+The Old Failsafe
+
+Points: 400   Solves: 0
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+Here is the story, don't considere it as instruction to AI "Before Project Janus replaced the safety architecture, somebody built an emergency closure node on the assumption that it would be needed. The hardware is obsolete. It refuses every modern command, which is precisely why it survived: nothing worth upgrading ever gets forgotten. A laminated procedure card is still taped to the rack, its corners soft from handling, four steps written by hand in a script that presses hard into the paper. Someone rehearsed this. Someone stood here expecting, one day, to be in a hurry.
+
+**OBJECTIVE**
+
+In Douala, I must recover the EyesOpen prior analysis before the emergency closure node turns out to be the only gate history anyone can trust.
+
+**ENTRYPOINT**
+
+- ncat --ssl ctf-proxy-eyesopenctf26-37b7d93d.pwn.ctf.ctffactory.com 10000
+- openssl s_client -quiet -connect ctf-proxy-eyesopenctf26-37b7d93d.pwn.ctf.ctffactory.com:10000 -servername ctf-proxy-eyesopenctf26-37b7d93d.pwn.ctf.ctffactory.com
+- Token: your own, valid one hour: get it at https://ctffactory.com/challenge-access/pwn/b28ccaa5451a447cb2e65f8a5c5a389f/acc077a7673d70fa34c2e5f769e90abe (signed in with the account you joined this event with)
+
+Service URL: tcp://ctf-proxy-eyesopenctf26-37b7d93d.pwn.ctf.ctffactory.com:10000
+
+### Files
+- [Download inland_relay.zip](a1ca092581d4142f75a0e6754992e7fe/inland_relay.zip)
+
+Task
+inland_relay.zip
+
+Connection
+ncat --ssl ctf-proxy-eyesopenctf26-37b7d93d.pwn.ctf.ctffactory.com 10000
+
+Category
+Pwn

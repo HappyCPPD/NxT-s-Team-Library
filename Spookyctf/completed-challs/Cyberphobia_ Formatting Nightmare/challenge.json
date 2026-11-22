@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "name": "Cyberphobia: Formatting Nightmare",
+  "category": "binrev",
+  "value": 608,
+  "solves": 93,
+  "description": "I trusted the string, it revealed my secrets.\r\n\r\n*flag can only be fetched from the remote server, wrap answer in spooky{}*\r\n\r\n*Note this challenge was made from students as part of a class project, please be kind and provide feedback here: https://docs.google.com/forms/d/e/1FAIpQLSdJHmfIxsN-tXX82pWJq2To2WxUcZpiU29l-UMlFZct0eFu-Q/viewform*",
+  "connection_info": "nc 18.226.103.146 9002",
+  "tags": [
+    "medium"
+  ]
+}

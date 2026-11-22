@@ -1,0 +1,10 @@
+{
+  "slug": "signpost",
+  "categorySlug": "osint",
+  "name": "Signpost",
+  "difficulty": 2,
+  "order": 2,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/e77cb05f-3ff2-4a9a-b6ce-f9fb3c67ec2e?expiry=1794593407&token=garjxl4-6CUohPwJxhpKcvLLwqWbc41NWtVwMKhnZNUCrrPyJX_enyiIsX2C-ZyMBrRslNw1O64T9F9eu3Ueow%3D%3D",
+  "canBeStarted": true,
+  "description": "# Sign post\n\nThis year's hiking adventure was amazing.\nWhere was this photo taken?\n\nBrute force is neither necessary nor allowed to solve this challenge. Do not attack the location picker tool. The tool is rate-limited to three tries per minute, so be careful when you submit. A full-resolution version of the image is available for download.\n\n![A signpost](https://api.platypwn.ctf.platypwnies.de/v1/assets/b8862108-617f-4b1a-a09e-ca7f28b74c45?expiry=1794593407&token=XDurlk8y6flyFUcaxWQyWc_5thH13ITPDMXKmx4yzEg8fB4Xb_NIef2q62RebN_xx8YzwTWF8bnw2w1FkANEuQ%3D%3D)\n"
+}

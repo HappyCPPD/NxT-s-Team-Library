@@ -1,0 +1,13 @@
+- Challenge Name: spot the flag
+- Challenge Category: OSINT
+- Challenge Difficulty: HARD
+- Challenge Flag: `d4rk{m4yb3_l0okIng_1nto_4oll0w3rs_c4n_h3lp_f1nd1ng_1he_f14g}c0de`
+- Challenge Description: d4rkc0de will help you flagify this. Flag format: `d4rk{flag}c0de`
+- Challenge Files: -
+- Challenge Author: [d4r5h](https://github.com/DarshBhilwara)
+- Challenge Solution: 
+ Players have to search for d4rkc0de on spotify and then look for its following and then look at it's following and find a profile named `Tarang`. This account will have 5 playlists `six`, `4`, `÷`, `too` and `=` (hinting base32 encoding) with the following hints in each of them. `i may be on the correct path to become an elite musical maestro` for six (hinting players that they are onto something), `initially i was on my path to become an elite musical maestro but personally i think i need to focus on the starting and my numbers will speak for themselves.` for 4 (hinting that they have to look at initial letters and look at numbers as it is i.e. one as 1, two as 2 and so on), `i like this album but i don't think albums are the way to become a musical maestro` for ÷ (hinting that albums do not help in forming the flag, `but i think that i may have jumbled my path to become the elite musical maestro` for too (hinting that the order of base32 is jumbled) and `i feel that at the end, when i will become a musical maestro, i should act equally with everyone` for = (hinting that they should add = at the end. Finally after getting initial from each of them and trying different orders, they will find the flag in base32 and then they will decode it to find the flag.
+ - six - `YF6ZRRNZSDC3THL4YWQZK7MYYTIZY`
+ - 4 - `NU2HSYRTL5WDA33LJFXGOXZRNZ2G6`
+ - too - `XZUN5WGYMDXGNZHGX3DGRXF62BTNR`
+ - full base32 - `NU2HSYRTL5WDA33LJFXGOXZRNZ2G6XZUN5WGYMDXGNZHGX3DGRXF62BTNRYF6ZRRNZSDC3THL4YWQZK7MYYTIZY=`

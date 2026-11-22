@@ -1,0 +1,28 @@
+forensics02 — The Last Warning
+
+Points: 100   Solves: 19
+
+Description
+📍 LOCATION — LIEU
+ENG · Deido Diagnostic Workshop — Abandoned diagnostic executable
+FR · Atelier de diagnostic de Deido — Exécutable de diagnostic abandonné
+
+🧩 CONTEXT — CONTEXTE
+ENG · This executable has been asleep for decades in a Directorate maintenance folder. It does exactly what it claims: it polls three sensors and reports everything nominal. But someone added text inside the binary, wedged between two perfectly boring labels — PUMP 3 NOMINAL, SENSOR 7 OFFLINE — and padded it out so the file size would not shift by a single byte. That is the work of a careful man. He was not writing to his colleagues. He was writing to somebody who would arrive much later, with tools he did not have. This file has been archived, catalogued and backed up seven times by people who never once opened it. You are going to open it.
+FR · Cet exécutable dort depuis des décennies dans un dossier de maintenance du Directorate. Il fait exactement ce qu’il annonce : il interroge trois capteurs et déclare tout conforme. Mais quelqu’un a ajouté du texte à l’intérieur du binaire, coincé entre deux libellés parfaitement ennuyeux — POMPE 3 NOMINAL, CAPTEUR 7 HORS LIGNE — et l’a complété pour que la taille du fichier ne bouge pas d’un octet. C’est le geste d’un homme prudent. Il n’écrivait pas à ses collègues. Il écrivait à quelqu’un qui viendrait bien plus tard, avec des outils qu’il n’avait pas. Ce fichier a été archivé, catalogué et sauvegardé sept fois par des gens qui ne l’ont jamais ouvert. Vous allez l’ouvrir.
+
+🎯 OBJECTIVE — OBJECTIF
+ENG · Recover the message hidden in that program, word for word, and tell me whose hand put it there. I need a name I can attach to it, not an inference.
+
+52.70.200.70:8080/forensics002/program.py
+FR · Récupérez le message dissimulé dans ce programme, mot pour mot, et dites-moi de quelle main il vient. Il me faut un nom à y attacher, pas une supposition.
+
+52.70.200.70:8080/forensics002/program.py
+
+— Reality Fragment F-06
+
+Task
+
+
+Category
+Forensics

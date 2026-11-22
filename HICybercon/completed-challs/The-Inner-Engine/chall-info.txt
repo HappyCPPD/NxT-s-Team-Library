@@ -1,0 +1,15 @@
+Recovered from the LATHE-CAD r4 install media, \TOOLS\LICENSE\README.1ST:
+
+Node-locked activation. Run the checker with your activation key as the only argument:
+
+inner-engine <key>
+
+A valid key unseals the activation record; anything else stays sealed.
+
+Linux x86-64 ELF.
+
+Files: inner-engine.zip
+
+SHA-256: 8c20991917e05093d0c87268ae9563515cd33abc90dd36b916413b5667559f46
+
+Flag Format: hiCTF{}

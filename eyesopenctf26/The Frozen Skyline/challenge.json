@@ -1,0 +1,10 @@
+{
+  "id": 9,
+  "name": "The Frozen Skyline",
+  "category": "Crypto",
+  "value": 200,
+  "solves": 7,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nDr Assa Abene receives Douala-7’s intercepted still after an overlap under a minute; its camera always leans three degrees to the left. Recover the skyline hidden inside the ciphertext and establish whether you are looking at one city recorded badly, or several cities standing in the same place at the same time.\n\n**OBJECTIVE**\n\nRecover the skyline hidden inside Douala-7’s intercepted still and establish what the complete EyesOpen prior analysis says—whether it records one city badly or several cities in the same place at the same time, before the wrong gates get closed and the real history of Douala is lost.\n\n**ENTRYPOINT**\n\n- Open your private analysis workbench from the link shown with this challenge.\n\n---\n**[Launch Workbench](https://ctffactory.com/workbench/launch?job=5f69dc2b5155&ctf=b28ccaa5451a447cb2e65f8a5c5a389f)**",
+  "connection_info": "",
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fb980c53-cd11-4b3a-b397-613a63395f1d",
+  "name": "Cold Chain",
+  "description": "\"ColdLink\" services the refrigeration case controllers at a regional\nsupermarket chain. Overnight, something forced every refrigerated case into\ncontinuous defrost \u2014 dairy, produce, meat, and frozen are all climbing toward\nspoilage, and the cases will not hold temperature.\n\nYou've been given network access to the affected store's ColdLink CaseManager\nCM-900 controller and a copy of the ColdLink technician toolkit. Work out how\nto authenticate to the controller, find what is forcing the defrost, and bring\nall six cases back under the compliance ceiling \u2014 and keep them there. The\ncontroller is stubborn: a naive fix doesn't stick. Make the cold chain hold,\nand the controller's compliance status will release proof of the repair.\n\nThe toolkit, protocol reference, and a sample historian export are in the\ndownload. The controller exposes a control service and a read-only historian\nfeed; see the reference document for ports and commands.\n\n**Files:** [cold-chain.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/cold-chain/a591033074e89e12/cold-chain.zip)\nSHA-256: `6b11d090f36f12a2e1b4456b0d0aa84b0c20f855c8aef0d9cd63ab968bd48374`\n\n**Flag Format:** `hiCTF{}`\n",
+  "category": "Hardware",
+  "author": "Hidden Investigations",
+  "files": [],
+  "points": 81,
+  "solves": 104,
+  "sortWeight": null,
+  "tags": [],
+  "instancerLifetime": 1200000,
+  "instancerExtendable": true,
+  "instancerStoppable": true,
+  "instancerActions": [],
+  "adminBotInputs": null,
+  "hasFlag": true,
+  "scoringKind": "decay"
+}

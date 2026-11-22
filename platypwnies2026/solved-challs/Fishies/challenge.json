@@ -1,0 +1,10 @@
+{
+  "slug": "fishies",
+  "categorySlug": "web",
+  "name": "Fishies",
+  "difficulty": 3,
+  "order": 1,
+  "staticFilesArchiveUrl": "https://api.platypwn.ctf.platypwnies.de/v1/assets/f95a26eb-2318-4fad-b27e-695ff5e0ddc2?expiry=1794593283&token=BQInqprW1cL75LatYPUkeMN91yN2q6sRAYRM_-0482zQvv7pVIyGs9rfIX-GaRQqZR4wQrIxecldmhK_kk2_ew%3D%3D",
+  "canBeStarted": true,
+  "description": "# Fishies\n\nSo many fun fishies! You can even add your own. Make sure to report any fishies that are not appropriate to the admin.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 48,
+  "name": "The Logical Way",
+  "category": "crypto",
+  "value": 663,
+  "solves": 73,
+  "description": "A Vulcan has left their final message to the world before dying. They had sent centuries thinking of nothing but logic. Can you uncover their final message?\r\nFormat: spooky{hello_world}",
+  "connection_info": null,
+  "tags": []
+}

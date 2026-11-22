@@ -1,0 +1,17 @@
+Name: Cairn
+Category: cryptography
+Points/Solves: 113 / 55
+Author: Hidden Investigations
+Tags: (none)
+Files: cairn.zip
+Connection: N/A (file-only)
+SHA-256: 9f8f036fbb3a25341dc58602c9d8c340c786f1ba882095c45bac69b785796f21
+
+Description:
+One step at a time. Do not look back.
+
+**Files:** [cairn.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/cairn/f277563a98c4bc27/cairn.zip)
+
+SHA-256: `9f8f036fbb3a25341dc58602c9d8c340c786f1ba882095c45bac69b785796f21`
+
+**Flag Format:** `hiCTF{}`

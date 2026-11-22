@@ -1,0 +1,13 @@
+The Logical Way
+
+Points: 663   Solves: 73
+
+Description
+A Vulcan has left their final message to the world before dying. They had sent centuries thinking of nothing but logic. Can you uncover their final message?
+Format: spooky{hello_world}
+
+Task
+My_Message_to_you.7z
+
+Category
+crypto

@@ -1,0 +1,12 @@
+
+- name: SPI TPM
+- description:
+```
+
+Want a hardware cryptographic device to help you manage keys and perform data encryption/decryption securely?
+Try our new TPM device over SPI. Fortunately, it has been integrated into Linux platforms!
+
+ncat spi-tpm-pwn.chal.hitconctf.com 1337
+
+spi-tpm-pwn-db1d27f883a2e5e8.tar.gz
+```

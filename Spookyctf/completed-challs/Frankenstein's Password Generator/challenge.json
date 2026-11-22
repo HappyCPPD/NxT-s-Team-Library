@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "name": "Frankenstein's Password Generator",
+  "category": "binrev",
+  "value": 741,
+  "solves": 25,
+  "description": "Dr. Frankenstein left behind a strange password generator in an abandoned NJIT laboratory. The machine refuses to start without an activation phrase. His last notebook entry reads, \"A bolt at midnight gave it life.\" Can you figure out what the program expects and wake the creature?",
+  "connection_info": null,
+  "tags": [
+    "medium"
+  ]
+}

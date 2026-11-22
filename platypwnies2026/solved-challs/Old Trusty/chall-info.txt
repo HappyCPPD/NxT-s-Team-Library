@@ -1,0 +1,15 @@
+Old Trusty
+
+Category: ad   Difficulty: 3
+
+Description
+# Old Trusty
+
+After many years IT finally got around to moving all the legacy stuff to its own domain. Now even if an attacker manages to compromise the legacy infrastructure, that should only affect the legacy domain, right? Right?!
+
+Note that this challenge has 2 flags, each on the Administrator's Desktop of the respective machine.
+Also note that the challenge may need up to 10min to start because AD is slow, sorry :(
+
+
+Task
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

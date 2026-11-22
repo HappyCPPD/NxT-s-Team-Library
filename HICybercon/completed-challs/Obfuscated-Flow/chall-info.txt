@@ -1,0 +1,7 @@
+We recovered a secure gateway validator used to authenticate operators on an isolated node. Can you cut through and recover the flag?
+
+Files: rev-obs-flow.zip
+
+SHA-256: ddaca1f93d3f748482982814ed307b58f9fba73e6298bb4551594a2b344a2d30
+
+Flag Format: hiCTF{}

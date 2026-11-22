@@ -1,0 +1,5 @@
+A fictional state's central bank holds its entire reserve in an on-chain vault. An authorised credit facility can borrow from the vault against collateral, with loans priced using the bank's on-chain market.
+
+Drain the reserve until the vault holds less than 10% of its initial balance.
+
+Requires: LIVE INSTANCE — start it on the platform (Instancer) before solving.

@@ -1,0 +1,14 @@
+First GTA VI Copy
+
+Points: 100   Solves: 162
+
+Description
+who got the first GTA VI copy?
+
+flag format: `d4rk{name}`
+
+Task
+
+
+Category
+OSINT

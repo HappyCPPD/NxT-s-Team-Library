@@ -1,0 +1,13 @@
+Fishies
+
+Category: web   Difficulty: 3
+
+Description
+# Fishies
+
+So many fun fishies! You can even add your own. Make sure to report any fishies that are not appropriate to the admin.
+
+
+Task
+web.fishies.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

@@ -1,0 +1,15 @@
+Diagraphephobia
+
+Points: 745   Solves: 19
+
+Description
+The Federation has found a redacted file from spying on the Klingon. They want to know the contents of it. Can you find it?
+
+Task
+Diagraphephobia.pdf
+
+Tags
+medium
+
+Category
+crypto

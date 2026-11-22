@@ -1,0 +1,10 @@
+{
+  "id": 48,
+  "name": "The Vault Protocol",
+  "category": "Rev",
+  "value": 200,
+  "solves": 250,
+  "description": "Before disappearing, a renowned cryptographer left behind a digital vault containing his final secret. Years later, someone finally discovers the executable that guards it. The vault has one rule: only those who can uncover its hidden key may enter.\r\nCan you crack the vault?",
+  "connection_info": null,
+  "tags": []
+}

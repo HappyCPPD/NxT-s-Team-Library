@@ -1,0 +1,17 @@
+The Phantom Login
+
+Points: 734   Solves: 32
+
+Description
+It's Halloween night at NJIT, and something strange has been happening on the network.
+
+At 3:13 AM, the university's security team detected unusual authentication activity involving an account that should have been forgotten long ago. The SOC recovered Windows security logs and web access records, but the evidence is buried among hundreds of seemingly normal events. Your task is to investigate the suspicious activity, determine what happened, and uncover the secret left behind. The ghosts of NJIT don't give up their secrets easily.
+
+Task
+Phantom_Login.zip
+
+Tags
+medium
+
+Category
+forensics

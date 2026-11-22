@@ -1,0 +1,31 @@
+The Observer Test
+
+Points: 200   Solves: 64
+
+Description
+**LOCATION**
+
+Douala
+
+**CONTEXT**
+
+In Douala, Dr Assa Abene commits you to a courier's message: merely looking at a message could change it. Eleven builds renewed its false delivery schedule while people entered without a trace. Recover the Directorate seal inside; its authority may explain who is crossing between worlds.
+
+**OBJECTIVE**
+
+In Douala, as EyesOpen prior analysis, recover the Directorate seal’s authority so there is no guessing which gates to close, or which history of Douala is the real one.
+
+**ENTRYPOINT**
+
+- Download the file(s) attached to this challenge to begin.
+
+### Files
+- [Download quiet_relay.zip](f964503305ac7f87449d7c8d8bbcecab/quiet_relay.zip)
+- [Download quiet_relay_solution.md](999d6c87bdc732d6ad1fa983eaa01473/quiet_relay_solution.md)
+
+Task
+quiet_relay.zip
+quiet_relay_solution.md
+
+Category
+Rev

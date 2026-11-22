@@ -1,0 +1,9 @@
+A critical workstation on the financial management subnet was suspected of being compromised by an advanced persistent threat (APT). Our tier-1 triage team collected a physical memory capture and ran an automated process audit.
+
+The automated audit reported everything clean: all running processes appear ordinary, can you retrieve the flag?
+
+Files: memory-liar.zip
+
+SHA-256: 26a5e19d3e6a3c591e008abf1d644ecab735197d06c5c1e2b4a42e64183c1414
+
+Flag Format: hiCTF{}

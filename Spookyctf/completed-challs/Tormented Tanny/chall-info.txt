@@ -1,0 +1,15 @@
+Tormented Tanny
+
+Points: 472   Solves: 39
+
+Description
+An image was captured of a vicious beast while guarding his castle. The cameraman may have found just what makes this beast so furious. Unfortunately, the cameraman seems to have gone missing. Maybe the photo contains the answer.
+
+Task
+TormentedTanny.png
+
+Tags
+easy
+
+Category
+forensics

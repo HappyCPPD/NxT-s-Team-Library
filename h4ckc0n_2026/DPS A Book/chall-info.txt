@@ -1,0 +1,17 @@
+DPS A Book
+
+Points: 400   Solves: 0
+
+Description
+What do only the OGs remember? 
+
+dps a book isnt about a film or a book or a school 💀 < SAID BY AUTHOR
+
+
+flag format: `d4rk{...}`
+
+Task
+
+
+Category
+OSINT

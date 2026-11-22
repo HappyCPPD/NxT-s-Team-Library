@@ -1,0 +1,10 @@
+{
+  "id": 55,
+  "name": "Chasing Shadows",
+  "category": "The Mirror Investigation",
+  "value": 200,
+  "solves": 0,
+  "description": "**WHO THE HELL IS ECHO?**\r\n\r\nWe've been chasing this ghost for far too long. Every lead goes cold, every trial disappears, and while we're running in circles, he's still out there, one step ahead of us.\r\n\r\nI need a name. An identity. Something that tells us who we're dealing with.\r\n\r\nSearch everywhere. Follow every footprint. Nothing on the internet disappears as completely as people think it does.\r\n\r\n**Might the message hidden in *hidden is plain sight* lead us to ECHO?**\r\n\r\nFind him, Arjun. Before he disappears again.\r\n\r\n**KABIR:** By the way, Arjun, send me your profile username. I need to verify something.\r\n\r\n**ARJUN:** Sir, it's the same one I've always used.\r\n\r\n\r\n**Flag Format:** d4rk{number_number_number_number_number_number_number_number_number_number}\r\n\r\nThe ordering of numbers matters. Check carefully before submitting.",
+  "connection_info": null,
+  "tags": []
+}

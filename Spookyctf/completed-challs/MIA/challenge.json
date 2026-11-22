@@ -1,0 +1,12 @@
+{
+  "id": 25,
+  "name": "MIA",
+  "category": "osint",
+  "value": 742,
+  "solves": 23,
+  "description": "We lost direct contact with an informant days ago after someone caught onto their trail. Most recently, we intercepted some digital traffic, a photo, that may help us determine where the informant went. We are aware that the informant did want to visit a historical site for a drop-off; the individual likely brought them somewhere nearby to hide.\r\n\r\nFlag format: spooky{Site_Name_Here}",
+  "connection_info": null,
+  "tags": [
+    "medium"
+  ]
+}

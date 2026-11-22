@@ -1,0 +1,26 @@
+forensics04 — The Hidden Blueprint
+
+Points: 200   Solves: 3
+
+Description
+📍 LOCATION — LIEU
+ENG · Directorate Historical Archive — Official Deido photograph
+FR · Archives historiques du Directorate — Photographie officielle de Deido
+
+🧩 CONTEXT — CONTEXTE
+ENG · The official photograph of the monument — the annual report cover, the one framed in waiting rooms — was reprinted in ninety-one Directorate publications. I hold ninety-one copies. Ninety are identical. The ninety-first passed through Samuel Mboa’s hands on a Friday evening, on its way to the printers, when nobody checks anything. He did not hide his drawing in a safe. He hid it inside the image his own censors would go on copying for years, into every library in the country. He had access to the underground and no way to speak of it; this was the only page he could reach. I do not know whether that was courage or despair. I lean toward a man who had run out of safes.
+FR · La photographie officielle du monument — celle de la couverture du rapport annuel, celle qu’on accroche dans les salles d’attente — a été reproduite dans quatre-vingt-onze publications du Directorate. J’en possède quatre-vingt-onze copies. Quatre-vingt-dix sont identiques. La quatre-vingt-onzième est passée entre les mains de Samuel Mboa un vendredi soir, en partant chez l’imprimeur, à l’heure où plus personne ne vérifie rien. Il n’a pas caché son plan dans un coffre. Il l’a caché dans l’image que ses propres censeurs allaient recopier pendant des années, dans toutes les bibliothèques du pays. Il avait accès au sous-sol et aucun moyen d’en parler ; c’était la seule page à sa portée. Courage ou désespoir, je ne sais pas. Je penche pour un homme qui n’avait plus d’autre coffre.
+
+🎯 OBJECTIVE — OBJECTIF
+ENG · Pull the drawing out of that photograph and set it against the monument the public is allowed to see. I need the proportion: how much of Deido actually stands above ground.
+2.70.200.70:8080/forensics04/deido_official_photo.jpg
+FR · Extrayez le plan dissimulé dans cette photographie et confrontez-le au monument que le public a le droit de voir. Il me faut la proportion : quelle part de Deido se tient réellement au-dessus du sol.
+2.70.200.70:8080/forensics04/deido_official_photo.jpg
+
+— Reality Fragment F-08
+
+Task
+
+
+Category
+Forensics

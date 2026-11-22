@@ -1,0 +1,10 @@
+{
+  "slug": "oldtrusty",
+  "categorySlug": "ad",
+  "name": "Old Trusty",
+  "difficulty": 3,
+  "order": 1,
+  "staticFilesArchiveUrl": null,
+  "canBeStarted": true,
+  "description": "# Old Trusty\n\nAfter many years IT finally got around to moving all the legacy stuff to its own domain. Now even if an attacker manages to compromise the legacy infrastructure, that should only affect the legacy domain, right? Right?!\n\nNote that this challenge has 2 flags, each on the Administrator's Desktop of the respective machine.\nAlso note that the challenge may need up to 10min to start because AD is slow, sorry :(\n"
+}

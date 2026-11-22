@@ -1,0 +1,15 @@
+Unholy Trinity
+
+Category: crypto   Difficulty: 2
+
+Description
+# Unholy Trinity
+
+Commitments are basically hashes, signatures are essentially hashes, and hashes are fundamentally encryption.
+
+![hash-equivalence-triangle](https://api.platypwn.ctf.platypwnies.de/v1/assets/dbf3fba7-e7cd-48bc-90ea-38a72f5c40d8?expiry=1794593384&token=GnMWzeBFRpnQdHW9tj6SrDhPSpXir-skUWf7lCRQy2rf0Hwt9vEiAp55ZATxBmMr8plwtS5ayL8HCu3WmbZx6Q%3D%3D)
+
+
+Task
+crypto.unholytrinity.zip
+Requires: LIVE INSTANCE -- start it on the platform (Instanz) before solving.

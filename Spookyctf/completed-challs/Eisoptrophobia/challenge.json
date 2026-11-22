@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "name": "Eisoptrophobia",
+  "category": "forensics",
+  "value": 490,
+  "solves": 24,
+  "description": "Something strange is happening in the mirror. What appears to be an ordinary reflection may be hiding something more than meets the eye. Look closely, investigate the image, and uncover what lies beneath the surface.",
+  "connection_info": null,
+  "tags": [
+    "easy"
+  ]
+}

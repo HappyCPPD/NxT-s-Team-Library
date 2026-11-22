@@ -1,0 +1,10 @@
+{
+  "slug": "fsenc",
+  "categorySlug": "rev",
+  "name": "FS Enc",
+  "difficulty": 2,
+  "order": 1,
+  "staticFilesArchiveUrl": null,
+  "canBeStarted": true,
+  "description": "# FS-Enc\n\nMy buddy wrote a small file encryption tool.\nHe says it is so small that it must be secure, also because it is difficult to reverse engineer Rust binaries.\n\nBut now I encrypted my flag and forgot the password!\nCan you help me recover it?\n"
+}

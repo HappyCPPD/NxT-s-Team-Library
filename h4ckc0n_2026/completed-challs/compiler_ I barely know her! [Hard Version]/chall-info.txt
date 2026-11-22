@@ -1,0 +1,16 @@
+compiler? I barely know her! [Hard Version]
+
+Points: 100   Solves: 152
+
+Description
+no stopping us now, we only go forward 
+select hard by entering `2`
+
+Task
+compiler-hard-handout.zip
+
+Connection
+nc 0.cloud.chals.io 24814
+
+Category
+PWN

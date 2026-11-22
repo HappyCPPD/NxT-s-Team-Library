@@ -1,0 +1,7 @@
+Sometimes the most crucial details are right in front of you, hidden where no one bothers to look. Inspect the provided documents closely—what appears empty might hold the key to unravelling the final secret.
+
+Files: whispers-in-the-margin.zip
+
+SHA-256: e7633b86df93f2ab68eb769c978130b07aadbeff9e51e685f090867a8739f55e
+
+Flag Format: hiCTF{}

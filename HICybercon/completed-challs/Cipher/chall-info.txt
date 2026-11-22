@@ -1,0 +1,18 @@
+Name: Cipher
+Category: android
+Points/Solves: 500 / 0
+Author: Hidden Investigations
+Tags: (none)
+Files: cipher.zip
+Connection: N/A (file-only)
+SHA-256: d32ec3f2c705e1aefcba505d5f3af157680fe0bab50bc69418927c9298126745
+
+Description:
+A locked Android vault guards dozens of encrypted records behind a single passphrase.
+The interface reveals almost nothing, so inspect what lies beneath, understand how access is derived, and recover the secret hidden inside.
+
+**Files:** [cipher.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/cipher/69f62c497266e210/cipher.zip)
+
+SHA-256: `d32ec3f2c705e1aefcba505d5f3af157680fe0bab50bc69418927c9298126745`
+
+**Flag Format:** `hiCTF{}`

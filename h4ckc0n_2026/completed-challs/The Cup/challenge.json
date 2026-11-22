@@ -1,0 +1,10 @@
+{
+  "id": 13,
+  "name": "The Cup",
+  "category": "OSINT",
+  "value": 300,
+  "solves": 0,
+  "description": "I am curious what's on the cup? \r\n\r\nflag format: `d4rk{content_on_the_cup}`\r\n![whats_on_the_cup.webp](/files/461a4342d77fc66147b756db82d7f9c8/whats_on_the_cup.webp)",
+  "connection_info": null,
+  "tags": []
+}

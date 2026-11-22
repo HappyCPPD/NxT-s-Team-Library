@@ -1,0 +1,10 @@
+{
+  "id": 23,
+  "name": "Memory of Janus",
+  "category": "Forensics",
+  "value": 200,
+  "solves": 49,
+  "description": "**LOCATION**\n\nDouala\n\n**CONTEXT**\n\nMeridian’s team saved a Project Janus the flaw image four minutes before the lab was sealed. Meeting notes, console and staff chat survive beside “moving dinner back, this one is going to run long.” The activation note challenges Meridian’s claim: did it watch the first controlled Gate arrive, or order it?\n\n**OBJECTIVE**\n\nIn Douala, recover the EyesOpen prior analysis before Meridian’s claim collapses under what the activation note truly ordered or witnessed at the first controlled Gate.\n\n**ENTRYPOINT**\n\n- Download the file(s) attached to this challenge to begin.\n\n### Files\n- [Download midnight_orchard.bin](b9399bfc5811a1db30fc891453cf4d25/midnight_orchard.bin)",
+  "connection_info": "",
+  "tags": []
+}

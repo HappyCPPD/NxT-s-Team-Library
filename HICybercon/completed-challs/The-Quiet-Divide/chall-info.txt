@@ -1,0 +1,19 @@
+Name: The Quiet Divide
+Category: Network
+Points/Solves: 78 / 115
+Author: Hidden Investigations
+Tags: (none)
+Files: the-quiet-divide.zip
+Connection: N/A (file-only)
+SHA-256: 15c7f337f5eae52865fbece148237ca5f01b2f4fa703d64a54c4f35a7bb40225  [OK]
+
+Description:
+Asterion Dynamics finished an overnight maintenance window with an uncomfortable problem: its systems no longer agreed on what had actually happened. A single packet capture was preserved before the environment was taken offline.
+
+Find out what the traffic can prove, and recover the artifact left behind.
+
+**Files:** [the-quiet-divide.zip](https://hicon26-files-b19d71.nbg1.your-objectstorage.com/the-quiet-divide/0b7bc88ac6072d63/the-quiet-divide.zip)
+
+SHA-256: `15c7f337f5eae52865fbece148237ca5f01b2f4fa703d64a54c4f35a7bb40225`
+
+**Flag Format:** `hiCTF{}`
