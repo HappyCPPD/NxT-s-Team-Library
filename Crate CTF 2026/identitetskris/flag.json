@@ -1,0 +1,276 @@
+[
+  {
+    "_id": "6a3a27fb3af289ec3f6f3898",
+    "index": 0,
+    "guid": "67e6984b-9ef3-4fc0-9633-0e7b53bea3e6",
+    "isActive": false,
+    "balance": "$1,490.87",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": "Daniels Sweet",
+    "gender": "male",
+    "company": "NURPLEX",
+    "email": "danielssweet@nurplex.com",
+    "phone": "+1 (904) 571-3911",
+    "address": "193 River Street, Riceville, California, 2190",
+    "about": "Elit duis velit aliquip nulla do et nostrud. Occaecat nulla irure aliquip ipsum ex enim et dolor irure cupidatat anim reprehenderit nostrud. Nulla ex dolor minim ullamco irure fugiat esse eiusmod adipisicing reprehenderit qui ad esse nulla. Reprehenderit commodo mollit est quis ad veniam eu. Amet magna minim voluptate dolore eu sunt quis anim. Dolore duis est sit laborum mollit ullamco sit.\r\n",
+    "registered": "2017-09-20T02:41:35 -02:00",
+    "latitude": -19.167491,
+    "longitude": -26.753331,
+    "tags": [
+      "veniam",
+      "dolore",
+      "tempor",
+      "sint",
+      "in",
+      "veniam",
+      "ut"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "May Hayden"
+      },
+      {
+        "id": 1,
+        "name": "Bonita Mccoy"
+      },
+      {
+        "id": 2,
+        "name": "Nielsen Sanders"
+      }
+    ],
+    "greeting": "Hello, Daniels Sweet! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "6a3a27fb747cb42a8a241551",
+    "index": 1,
+    "guid": "99d148e4-1aa5-4a9c-8fd6-ef3c09fcdba1",
+    "isActive": true,
+    "balance": "$1,398.46",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "name": "Francis Burris",
+    "gender": "male",
+    "company": "LOVEPAD",
+    "email": "francisburris@lovepad.com",
+    "phone": "+1 (869) 474-2460",
+    "address": "401 Aster Court, Walker, Tennessee, 9159",
+    "about": "Consectetur ex do sit nostrud est laborum eu in eu reprehenderit id consectetur sunt. Est cupidatat ea esse irure velit proident reprehenderit aliquip Lorem sint duis. Duis quis laborum laboris sit elit dolore aliqua enim nostrud commodo cillum in est consequat.\r\n",
+    "registered": "2014-12-07T06:17:48 -01:00",
+    "latitude": 54.289436,
+    "longitude": -138.964141,
+    "tags": [
+      "fugiat",
+      "excepteur",
+      "duis",
+      "enim",
+      "veniam",
+      "officia",
+      "enim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Heath Nguyen"
+      },
+      {
+        "id": 1,
+        "name": "Grace Rojas"
+      },
+      {
+        "id": 2,
+        "name": "George Bond"
+      }
+    ],
+    "greeting": "Hello, Francis Burris! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "6a3a27fb324b9f3ff6ee4113",
+    "index": 2,
+    "guid": "034c6abb-2fcb-4019-bcf3-0687b2a4623a",
+    "isActive": false,
+    "balance": "$1,325.27",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "blue",
+    "name": "Hooper Hutchinson",
+    "gender": "male",
+    "company": "GEOFORM",
+    "email": "hooperhutchinson@geoform.com",
+    "phone": "+1 (927) 565-2926",
+    "address": "875 Clara Street, Chilton, Hawaii, 9711",
+    "about": "Exercitation tempor excepteur dolore excepteur ullamco aliquip minim ea est ipsum occaecat reprehenderit ullamco. Consectetur laboris minim culpa nulla sint magna. Enim consequat in incididunt pariatur eiusmod ad tempor ea. Aliquip adipisicing quis eiusmod consequat culpa incididunt Lorem veniam non aliquip magna duis reprehenderit enim.\r\n",
+    "registered": "2014-08-20T09:32:00 -02:00",
+    "latitude": 40.262555,
+    "longitude": 143.545325,
+    "tags": [
+      "do",
+      "non",
+      "velit",
+      "voluptate",
+      "voluptate",
+      "pariatur",
+      "tempor"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Wise Odonnell"
+      },
+      {
+        "id": 1,
+        "name": "Richard Barker"
+      },
+      {
+        "id": 2,
+        "name": "Bernadette Newton"
+      }
+    ],
+    "greeting": "Hello, Hooper Hutchinson! You have 4 unread messages.",
+    "favoriteFruit": "apple",
+
+
+    "Part_3": "_sort",
+    "next": "the next fragment has been prepared for printing."
+  },
+  {
+    "_id": "6a3a27fb1a52f41ebad89230",
+    "index": 3,
+    "guid": "1308378f-2033-45f3-b689-2f64e0291c15",
+    "isActive": true,
+    "balance": "$2,886.44",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "brown",
+    "name": "Mcneil Copeland",
+    "gender": "male",
+    "company": "BLEEKO",
+    "email": "mcneilcopeland@bleeko.com",
+    "phone": "+1 (875) 420-3364",
+    "address": "236 Ludlam Place, Enlow, Nevada, 3022",
+    "about": "Id amet eu sint est proident enim. Nulla dolore culpa do voluptate anim. Ut incididunt labore tempor irure aliquip proident officia et sint magna nisi. Ullamco consequat mollit anim commodo ullamco ex duis veniam ad officia. Eu tempor elit irure dolore veniam ea adipisicing reprehenderit nulla minim.\r\n",
+    "registered": "2019-04-30T09:11:42 -02:00",
+    "latitude": -40.879902,
+    "longitude": -40.008302,
+    "tags": [
+      "minim",
+      "dolor",
+      "quis",
+      "Lorem",
+      "ut",
+      "voluptate",
+      "laborum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Margarita Manning"
+      },
+      {
+        "id": 1,
+        "name": "Scott Gaines"
+      },
+      {
+        "id": 2,
+        "name": "Juliet Calhoun"
+      }
+    ],
+    "greeting": "Hello, Mcneil Copeland! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6a3a27fb9a2626dde3e3eabe",
+    "index": 4,
+    "guid": "1c47de18-e88b-4adf-ac8b-ec2750e37691",
+    "isActive": true,
+    "balance": "$3,500.74",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Dale Hooper",
+    "gender": "female",
+    "company": "ASSISTIX",
+    "email": "dalehooper@assistix.com",
+    "phone": "+1 (897) 403-2391",
+    "address": "990 Ashland Place, Glasgow, Connecticut, 190",
+    "about": "Fugiat amet elit sint nulla esse sit do. Qui cillum nisi fugiat ad duis aute do ullamco ea. Qui nulla est aliquip minim excepteur aliqua id ullamco consequat voluptate veniam irure consequat. Eu cillum ullamco veniam reprehenderit incididunt elit reprehenderit labore ut elit laborum.\r\n",
+    "registered": "2021-06-29T12:46:50 -02:00",
+    "latitude": -11.506496,
+    "longitude": -27.237574,
+    "tags": [
+      "ex",
+      "ipsum",
+      "sunt",
+      "non",
+      "occaecat",
+      "et",
+      "velit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Serrano Gutierrez"
+      },
+      {
+        "id": 1,
+        "name": "Pate Williams"
+      },
+      {
+        "id": 2,
+        "name": "Foley Turner"
+      }
+    ],
+    "greeting": "Hello, Dale Hooper! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6a3a27fb6b54b637f99f615d",
+    "index": 5,
+    "guid": "aa66d765-e6f3-478f-98e3-36be09c24e6b",
+    "isActive": true,
+    "balance": "$2,490.03",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Elma Blanchard",
+    "gender": "female",
+    "company": "PORTALIS",
+    "email": "elmablanchard@portalis.com",
+    "phone": "+1 (874) 534-2479",
+    "address": "813 Sackett Street, Maplewood, Maryland, 2837",
+    "about": "Culpa eiusmod exercitation enim cupidatat adipisicing laborum laborum nulla dolor. Mollit veniam id eiusmod officia fugiat tempor esse non cillum do amet aliqua. Dolor ipsum aliquip mollit deserunt ipsum aute id incididunt.\r\n",
+    "registered": "2014-04-10T05:12:19 -02:00",
+    "latitude": 41.075164,
+    "longitude": 133.31467,
+    "tags": [
+      "occaecat",
+      "tempor",
+      "magna",
+      "laboris",
+      "labore",
+      "nulla",
+      "proident"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Branch Clemons"
+      },
+      {
+        "id": 1,
+        "name": "Dillard Sampson"
+      },
+      {
+        "id": 2,
+        "name": "Lynda Meadows"
+      }
+    ],
+    "greeting": "Hello, Elma Blanchard! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
